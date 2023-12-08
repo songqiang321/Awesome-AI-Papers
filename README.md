@@ -17,6 +17,8 @@ This repository is used to collect papers and code in the field of AI. The conte
 ## NLP
 
 ### 1. Word2Vec
+- **Efficient Estimation of Word Representations in Vector Space**, _Mikolov et al._, arxiv 2013. \[[paper](https://arxiv.org/abs/1301.3781)\]
+- **Distributed Representations of Words and Phrases and their Compositionality**, _Mikolov et al._, arxiv 2013. \[[paper](https://arxiv.org/abs/1310.4546)\]
 
 ### 2. Seq2Seq
 
