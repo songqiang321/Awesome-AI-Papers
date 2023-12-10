@@ -156,6 +156,8 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ### 7. Text2Video
 
+- **MagicAnimate:Temporally Consistent Human Image Animation using Diffusion Model**, _Xu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.16498)\]\[[code](https://github.com/magic-research/magic-animate)\]
+
 ### 8. Survey for Multimodal
 
 ### 9. Other
