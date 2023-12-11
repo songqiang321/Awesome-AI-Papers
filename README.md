@@ -20,6 +20,25 @@ This repository is used to collect papers and code in the field of AI. The conte
 - [Reinforcement Learning](#reinforcement-learning)
 - [GNN](#gnn)
 
+```bash
+  ├─ NLP/  
+  │  ├─ Word2Vec/  
+  │  ├─ Seq2Seq/           
+  │  └─ Pretraining/             
+  ├─ CV/           
+  ├─ Multimodal/       
+  │  ├─ Audio/          
+  │  ├─ BLIP/         
+  │  ├─ CLIP/        
+  │  ├─ Diffusion Model/   
+  │  ├─ Multimodal LLM/          
+  │  ├─ Text2Image/          
+  │  ├─ Text2Video/            
+  │  └─ Survey/          
+  │─ Reinforcement LeaRNING/ 
+  └─ GNN           
+```
+
 ---
 
 ## NLP
