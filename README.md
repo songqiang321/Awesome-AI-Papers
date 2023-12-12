@@ -34,7 +34,7 @@ This repository is used to collect papers and code in the field of AI. The conte
   │  ├─ Multimodal LLM/          
   │  ├─ Text2Image/          
   │  ├─ Text2Video/            
-  │  └─ Survey/          
+  │  └─ Survey/           
   │─ Reinforcement LeaRNING/ 
   └─ GNN           
 ```
@@ -46,7 +46,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 ### 1. Word2Vec
 
 - **Efficient Estimation of Word Representations in Vector Space**, _Mikolov et al._, arxiv 2013. \[[paper](https://arxiv.org/abs/1301.3781)\]
-- **Distributed Representations of Words and Phrases and their Compositionality**, _Mikolov et al._, arxiv 2013. \[[paper](https://arxiv.org/abs/1310.4546)\]
+- **Distributed Representations of Words and Phrases and their Compositionality**, _Mikolov et al._, NIPS 2013. \[[paper](https://arxiv.org/abs/1310.4546)\]
 - **Distributed representations of sentences and documents**, _Le and Mikolov_, ICML 2014. \[[paper](https://arxiv.org/abs/1405.4053)\]
 - **Word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method**, _Goldberg and Levy_, arxiv 2014. \[[paper](https://arxiv.org/abs/1402.3722)\]
 - **word2vec Parameter Learning Explained**, _Rong_, arxiv 2014. \[[paper](https://arxiv.org/abs/1411.2738)\]
