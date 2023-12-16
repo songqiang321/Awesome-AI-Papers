@@ -186,6 +186,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - [https://github.com/babysor/MockingBird](https://github.com/babysor/MockingBird)
 - [https://github.com/netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 - [https://github.com/fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2)
+- [https://github.com/jaywalnut310/vits](https://github.com/jaywalnut310/vits)
 - [https://github.com/pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
 - [https://github.com/alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR)
 - [https://github.com/OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking)
