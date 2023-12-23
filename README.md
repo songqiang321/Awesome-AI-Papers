@@ -191,6 +191,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - [https://github.com/jaywalnut310/vits](https://github.com/jaywalnut310/vits)
 - [https://github.com/pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
 - [https://github.com/alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR)
+- [https://github.com/jianchang512/clone-voice](https://github.com/jianchang512/clone-voice)
 - [https://github.com/OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking)
 - [https://github.com/Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)
 - [https://github.com/Zz-ww/SadTalker-Video-Lip-Sync](https://github.com/Zz-ww/SadTalker-Video-Lip-Sync)
