@@ -237,12 +237,15 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)\]
 - \[[stablediffusion](https://github.com/Stability-AI/stablediffusion?tab=readme-ov-file)\]
 - \[[Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)\]
+- \[[Fooocus](https://github.com/lllyasviel/Fooocus)\]
 
 ### 5. Multimodal LLM
 
 - **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs**, _Zhao et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2307.08581)\]\[[code](https://github.com/magic-research/bubogpt)\]
 
 ### 6. Text2Image
+
+- DALL-E: **Zero-Shot Text-to-Image Generation**, _Ramesh et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2102.12092)\]\[[code](https://github.com/borisdayma/dalle-mini)\]
 
 ### 7. Text2Video
 
