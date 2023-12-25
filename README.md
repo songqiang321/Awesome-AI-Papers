@@ -246,6 +246,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 ### 6. Text2Image
 
 - DALL-E: **Zero-Shot Text-to-Image Generation**, _Ramesh et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2102.12092)\]\[[code](https://github.com/borisdayma/dalle-mini)\]
+- ControlNet: **Adding Conditional Control to Text-to-Image Diffusion Models**, _Zhang et al._, ICCV 2023. \[[paper](https://arxiv.org/abs/2302.05543)\]\[[code](https://github.com/lllyasviel/ControlNet)\]
 
 ### 7. Text2Video
 
