@@ -35,7 +35,7 @@ This repository is used to collect papers and code in the field of AI. The conte
   │  ├─ Text2Image/          
   │  ├─ Text2Video/            
   │  └─ Survey/           
-  │─ Reinforcement LeaRNING/ 
+  │─ Reinforcement Learning/ 
   └─ GNN           
 ```
 
