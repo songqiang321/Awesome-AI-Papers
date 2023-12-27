@@ -4,9 +4,9 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ## Table of Content  
 - [NLP](#nlp)
-  - [Word2Vec](#1word2vec)
-  - [Seq2Seq](#2seq2seq)
-  - [Pretraining](#3pretraining)
+  - [Word2Vec](#1-word2vec)
+  - [Seq2Seq](#2-seq2seq)
+  - [Pretraining](#3-pretraining)
 - [CV](#cv)
 - [Multimodal](#multimodal)
   - [Audio](#1-audio)
