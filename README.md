@@ -250,6 +250,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[stablediffusion](https://github.com/Stability-AI/stablediffusion?tab=readme-ov-file)\]
 - \[[Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)\]
 - \[[Fooocus](https://github.com/lllyasviel/Fooocus)\]
+- \[[ComfyUI](https://github.com/comfyanonymous/ComfyUI)\]
 
 ### 5. Multimodal LLM
 
