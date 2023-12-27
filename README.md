@@ -3,11 +3,11 @@
 This repository is used to collect papers and code in the field of AI. The contents contain the following parts:
 
 ## Table of Content  
-- [NLP](https://github.com/songqiang321/Awesome-AI-Papers/tree/main#nlp)
-  - [Word2Vec](https://github.com/songqiang321/Awesome-AI-Papers/tree/main#1word2vec)
-  - [Seq2Seq](https://github.com/songqiang321/Awesome-AI-Papers/tree/main#2seq2seq)
-  - [Pretraining](https://github.com/songqiang321/Awesome-AI-Papers/tree/main#3pretraining)
-- [CV](https://github.com/songqiang321/Awesome-AI-Papers/tree/main#cv)
+- [NLP](#nlp)
+  - [Word2Vec](#1word2vec)
+  - [Seq2Seq](#2seq2seq)
+  - [Pretraining](#3pretraining)
+- [CV](#cv)
 - [Multimodal](#multimodal)
   - [Audio](#1-audio)
   - [BLIP](#2-blip)
@@ -24,7 +24,12 @@ This repository is used to collect papers and code in the field of AI. The conte
   ├─ NLP/  
   │  ├─ Word2Vec/  
   │  ├─ Seq2Seq/           
-  │  └─ Pretraining/             
+  │  └─ Pretraining/  
+  │    ├─ Large Language Model/          
+  │    ├─ LLM Application/          
+  │    ├─ LLM Technique/       
+  │    ├─ LLM Theory/       
+  │    └─ Chinese Model/             
   ├─ CV/           
   ├─ Multimodal/       
   │  ├─ Audio/          
