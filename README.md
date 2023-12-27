@@ -274,6 +274,8 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ### 1.Basic for RL
 
+- PPO: **Proximal Policy Optimization Algorithms**, _Schulman et al._, arxiv 2017. \[[paper](https://arxiv.org/abs/1707.06347)\]\[[code](https://github.com/openai/baselines)\]
+
 ### 2. LLM for decision making 
 
 ---
