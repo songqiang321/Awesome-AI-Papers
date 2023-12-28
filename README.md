@@ -56,7 +56,7 @@ This repository is used to collect papers and code in the field of AI. The conte
   │    ├─ LLM Theory/       
   │    └─ Chinese Model/             
   ├─ CV/  
-    │    ├─ CV Application/          
+  │  ├─ CV Application/          
   │  ├─ Contrastive Learning/         
   │  ├─ Foundation Model/        
   │  ├─ GAN/   
