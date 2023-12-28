@@ -3,10 +3,15 @@
 This repository is used to collect papers and code in the field of AI. The contents contain the following parts:
 
 ## Table of Content  
+
 - [NLP](#nlp)
   - [Word2Vec](#1-word2vec)
   - [Seq2Seq](#2-seq2seq)
   - [Pretraining](#3-pretraining)
+    - [Large Language Model](#31-large-language-model)
+    - [LLM Application](#32-llm-application)
+    - [LLM Technique](#33-llm-technique)
+    - [LLM Theory](#34-llm-theory)
 - [CV](#cv)
 - [Multimodal](#multimodal)
   - [Audio](#1-audio)
@@ -26,8 +31,28 @@ This repository is used to collect papers and code in the field of AI. The conte
   │  ├─ Seq2Seq/           
   │  └─ Pretraining/  
   │    ├─ Large Language Model/          
-  │    ├─ LLM Application/          
-  │    ├─ LLM Technique/       
+  │    ├─ LLM Application/ 
+  │      ├─ AI Agent/          
+  │      ├─ Academic/          
+  │      ├─ Code/       
+  │      ├─ Financial Application/
+  │      ├─ Information Retrieval/  
+  │      ├─ Math/     
+  │      ├─ Medicine and Law/   
+  │      ├─ Recommend System/      
+  │      └─ Tool Learning/             
+  │    ├─ LLM Technique/ 
+  │      ├─ Alignment/          
+  │      ├─ Context Length/          
+  │      ├─ Corpus/       
+  │      ├─ Evaluation/
+  │      ├─ Hallucination/  
+  │      ├─ Inference/     
+  │      ├─ MoE/   
+  │      ├─ PEFT/     
+  │      ├─ Prompt Learning/   
+  │      ├─ RAG/       
+  │      └─ Reasoning/       
   │    ├─ LLM Theory/       
   │    └─ Chinese Model/             
   ├─ CV/           
