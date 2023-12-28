@@ -55,7 +55,15 @@ This repository is used to collect papers and code in the field of AI. The conte
   │      └─ Reasoning/       
   │    ├─ LLM Theory/       
   │    └─ Chinese Model/             
-  ├─ CV/           
+  ├─ CV/  
+    │    ├─ CV Application/          
+  │  ├─ Contrastive Learning/         
+  │  ├─ Foundation Model/        
+  │  ├─ GAN/   
+  │  ├─ Image Editing/          
+  │  ├─ Object Detection/          
+  │  ├─ Semantic Segmentation/            
+  │  └─ Video/          
   ├─ Multimodal/       
   │  ├─ Audio/          
   │  ├─ BLIP/         
