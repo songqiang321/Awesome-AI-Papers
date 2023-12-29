@@ -287,6 +287,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)\]
 - \[[Fooocus](https://github.com/lllyasviel/Fooocus)\]
 - \[[ComfyUI](https://github.com/comfyanonymous/ComfyUI)\]
+- \[[diffusers](https://github.com/huggingface/diffusers)\]
 
 ### 5. Multimodal LLM
 
