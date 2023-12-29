@@ -24,6 +24,7 @@ This repository is used to collect papers and code in the field of AI. The conte
   - [Survey for Multimodal](#8-survey-for-multimodal)
 - [Reinforcement Learning](#reinforcement-learning)
 - [GNN](#gnn)
+- [Transformer Architecture](#transformer-architecture)
 
 ```bash
   ├─ NLP/  
@@ -74,7 +75,8 @@ This repository is used to collect papers and code in the field of AI. The conte
   │  ├─ Text2Video/            
   │  └─ Survey/           
   │─ Reinforcement Learning/ 
-  └─ GNN           
+  │─ GNN/ 
+  └─ Transformer Architecture/          
 ```
 
 ---
@@ -322,4 +324,14 @@ This repository is used to collect papers and code in the field of AI. The conte
 ## GNN
 
 ### Survey for GNN
+
+---
+
+## Transformer Architecture
+
+- **Attention is All you Need**, _Vaswani et al._, NIPS 2017. \[[paper](https://arxiv.org/abs/1706.03762)\]\[[code](https://github.com/tensorflow/tensor2tensor)\]
+- RoPE: **RoFormer: Enhanced Transformer with Rotary Position Embedding**, _Su et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2104.09864)\]\[[code](https://github.com/ZhuiyiTechnology/roformer)\]
+- **RWKV: Reinventing RNNs for the Transformer Era**, _Peng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2305.13048)\]\[[code](https://github.com/BlinkDL/RWKV-LM)\]
+- **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, _Gu and Dao_, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.00752)\]\[[code](https://github.com/state-spaces/mamba)\]
+
 
