@@ -181,6 +181,8 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ##### 3.2.5 Information Retrieval
 
+- **Large Language Models for Information Retrieval: A Survey**, _Zhu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.07107)\]\[[code](https://github.com/RUC-NLPIR/LLM4IR-Survey)\]
+
 ##### 3.2.6 Math
 
 ##### 3.2.7 Medicine and Law
