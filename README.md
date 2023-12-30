@@ -189,7 +189,33 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ##### 3.2.9 Tool Learning
 
+- **Tool Learning with Foundation Models**, _Qin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.08354)\]\[[code](https://github.com/OpenBMB/BMTools)\]
+
 #### 3.3 LLM Technique
+
+##### 3.3.1 Alignment
+
+##### 3.3.2 Context Length
+
+##### 3.3.3 Corpus
+
+##### 3.3.4 Evaluation
+
+##### 3.3.5 Hallucination
+
+- **Holistic Evaluation of Language Models**, _Liang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2211.09110)\]\[[code](https://github.com/stanford-crfm/helm)\]
+
+##### 3.3.6 Inference
+
+##### 3.3.7 MoE
+
+##### 3.3.8 PEFT (Parameter-efficient Fine-tuning)
+
+##### 3.3.9 Prompt Learning
+
+##### 3.3.10 RAG (Retrieval Augmented Generation)
+
+##### 3.3.11 Reasoning
 
 #### 3.4 LLM Theory
 
