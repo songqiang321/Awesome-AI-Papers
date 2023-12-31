@@ -217,6 +217,8 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ##### 3.3.10 RAG (Retrieval Augmented Generation)
 
+- **Retrieval-Augmented Generation for Large Language Models: A Survey**, _Gao et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.10997)\]\[[code](https://github.com/Tongji-KGLLM/RAG-Survey)\]
+
 ##### 3.3.11 Reasoning
 
 #### 3.4 LLM Theory
