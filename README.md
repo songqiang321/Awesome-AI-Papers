@@ -59,8 +59,8 @@ This repository is used to collect papers and code in the field of AI. The conte
   ├─ CV/  
   │  ├─ CV Application/          
   │  ├─ Contrastive Learning/         
-  │  ├─ Foundation Model/        
-  │  ├─ Generative Model (GAN and VAE)/   
+  │  ├─ Foundation Model/ 
+  │  ├─ Generative Model (GAN and VAE)/          
   │  ├─ Image Editing/          
   │  ├─ Object Detection/          
   │  ├─ Semantic Segmentation/            
@@ -243,17 +243,24 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 - ViT: **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**, _Dosovitskiy et al._, ICLR 2021. \[[paper](https://arxiv.org/abs/2010.11929)\]\[[code](https://github.com/google-research/vision_transformer)\]\[[Pytorch Implementation](https://github.com/lucidrains/vit-pytorch)\]
 
-### 5. Image Editing
+### 5. Generative Model (GAN and VAE)
 
-### 6. Object Detection
+- GAN: **Generative Adversarial Networks**, _Goodfellow et al._, arxiv 2014. \[[paper](https://arxiv.org/abs/1406.2661)\]\[[code](https://github.com/goodfeli/adversarial)\]\[[Pytorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)\]
+- GigaGAN: **Scaling up GANs for Text-to-Image Synthesis**, _Kang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2303.05511)\]\[[code](https://github.com/lucidrains/gigagan-pytorch)\]
+- \[[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)\]
+- VAE: **Auto-Encoding Variational Bayes**, _Kingma et al._, arxiv 2013. \[[paper](https://arxiv.org/abs/1312.6114)\]\[[code](https://github.com/jaanli/variational-autoencoder)\]\[[Pytorch-VAE](https://github.com/AntixK/PyTorch-VAE)\]
+- VQ-VAE: **Neural Discrete Representation Learning**, _Oord et al._, NIPS 2017. \[[paper](https://arxiv.org/abs/1711.00937)\]\[[code](https://github.com/AntixK/PyTorch-VAE/blob/master/models/vq_vae.py)\]\[[vector-quantize-pytorch](https://github.com/lucidrains/vector-quantize-pytorch)\]
+- VQ-VAE-2: **Generating Diverse High-Fidelity Images with VQ-VAE-2**, Razavi et al._, arxiv 2019. \[[paper](https://arxiv.org/abs/1906.00446)\]\[[code](https://github.com/rosinality/vq-vae-2-pytorch)\]
 
-### 7. Semantic Segmentation
+### 6. Image Editing
+
+### 7. Object Detection
+
+### 8. Semantic Segmentation
 
 - **U-Net: Convolutional Networks for Biomedical Image Segmentation**, _Ronneberger et al._, arxiv 2015. \[[paper](https://arxiv.org/abs/1505.04597)\]\[[code](https://github.com/milesial/Pytorch-UNet)\]
 
-### 8. Video
-
-### 9. Generative Model (GAN and VAE)
+### 9. Video
 
 ### 10. Survey for CV
 
