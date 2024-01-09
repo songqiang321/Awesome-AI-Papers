@@ -244,10 +244,12 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback**, _Lee et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.00267)\]\[[code]\]
 - **ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models**, _Li et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.10505)\]\[[code](https://github.com/liziniu/ReMax)\]
 - **Policy Optimization in RLHF: The Impact of Out-of-preference Data**, _Li et al._, \[[paper](https://arxiv.org/abs/2312.10584)\]\[[code](https://github.com/liziniu/policy_optimization)\]
-- **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision**, _Burns et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.09390)\]\[[code]()\]
+- **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision**, _Burns et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.09390)\]
 - SPIN: **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**, _Chen et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.01335)\]\[[code]\]
 
 ##### 3.3.2 Context Length
+
+- **StreamingLLM: Efficient Streaming Language Models with Attention Sinks**, _Xiao et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.17453)\]\[[code](https://github.com/mit-han-lab/streaming-llm)\]\[[SwiftInfer](https://github.com/hpcaitech/SwiftInfer)\]\[[SwiftInfer blog](https://hpc-ai.com/blog/colossal-ai-swiftinfer)\]
 
 ##### 3.3.3 Corpus
 
@@ -326,7 +328,10 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 #### 3.5 Chinese Model
 
+- **Baichuan 2: Open Large-scale Language Models**, _Yang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.10305)\]\[[code](https://github.com/baichuan-inc/Baichuan2)\]
 - **Qwen Technical Report**, _Bai et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.16609)\]\[[code](https://github.com/QwenLM/Qwen)\]
+- **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**, _Bi et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.02954)\]\[[DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM)\]\[[DeepSeek-Coder)](https://github.com/deepseek-ai/DeepSeek-Coder)\]
+- **Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca**, Cui et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.08177)\]\[[code](https://github.com/ymcui/Chinese-LLaMA-Alpaca)\]\[[Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)\]
 
 ---
 
@@ -346,6 +351,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - MAE: **Masked Autoencoders Are Scalable Vision Learners**, _He et al._, CVPR 2022. \[[paper](https://arxiv.org/abs/2111.06377)\]\[[code](https://github.com/facebookresearch/mae)\]
 - LVM: **Sequential Modeling Enables Scalable Learning for Large Vision Models**, _Bai et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.00785)\]\[[code](https://github.com/ytongbai/LVM)\]
 - GLEE: **General Object Foundation Model for Images and Videos at Scale**, _Wu wt al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.09158)\]\[[code](https://github.com/FoundationVision/GLEE)\]
+- **Tokenize Anything via Prompting**, _Pan et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.09128)\]\[[code](https://github.com/baaivision/tokenize-anything)\]
 
 ### 5. Generative Model (GAN and VAE)
 
