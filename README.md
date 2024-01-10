@@ -194,6 +194,10 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Shaping the future of advanced robotics**, Google DeepMind 2024. \[[blog](https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/)\]
 - **Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation**, _Fu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.02117)\]\[[Hardware Code](https://github.com/MarkFzp/mobile-aloha)\]\[[Learning Code](https://github.com/MarkFzp/act-plus-plus)\]
 
+- \[[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)\]
+- \[[AgentGPT](https://github.com/reworkd/AgentGPT)\]
+- \[[babyagi](https://github.com/yoheinakajima/babyagi)\]
+
 ##### 3.2.2 Academic
 
 - **K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization**, _Deng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2306.05064)\]\[[code](https://github.com/davendw49/k2)\]
@@ -201,13 +205,18 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ##### 3.2.3 Code
 
+- **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents**, _Yang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.00812)\]
+
 ##### 3.2.4 Financial Application
 
 - **DocLLM: A layout-aware generative language model for multimodal document understanding**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.00908)\])
+- **DocGraphLM: Documental Graph Language Model for Information Extraction**, _Wang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2401.02823)\])
 
 ##### 3.2.5 Information Retrieval
 
 - **Large Language Models for Information Retrieval: A Survey**, _Zhu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.07107)\]\[[code](https://github.com/RUC-NLPIR/LLM4IR-Survey)\]
+- **UniGen: A Unified Generative Framework for Retrieval and Question Answering with Large Language Models**, _Li et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.11036)\]
+- **SIGIR-AP 2023 Tutorial: Recent Advances in Generative Information Retrieval** \[[link](https://sigir-ap2023-generative-ir.github.io/)\]
 
 ##### 3.2.6 Math
 
@@ -272,6 +281,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 ##### 3.3.7 MoE
 
 - **Fast Inference of Mixture-of-Experts Language Models with Offloading**, _Eliseev and Mazur_, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.17238)\]\[[code](https://github.com/dvmazur/mixtral-offloading)\]
+- **Mixtral of Experts**, _Jiang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2401.04088)\]\[[code](https://github.com/mistralai/mistral-src)\]\[[blog](https://mistral.ai/news/mixtral-of-experts/)\]
 
 ##### 3.3.8 PEFT (Parameter-efficient Fine-tuning)
 
