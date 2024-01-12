@@ -184,6 +184,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.10848)\]\[[code](https://github.com/OpenBMB/AgentVerse/)\]
 - **AppAgent: Multimodal Agents as Smartphone Users**, _Zhang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.13771)\]\[[code](https://github.com/mnotgod96/AppAgent)\]
 - **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation**, _Wu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.08155)\]\[[code](https://github.com/microsoft/autogen)\]
+- ChatDev: **Communicative Agents for Software Development**, _Qian et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2307.07924)\]\[[code](https://github.com/OpenBMB/ChatDev)\]\[[gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)\]
 
 - **Mind2Web: Towards a Generalist Agent for the Web**, _Deng et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2306.06070)\]\[[code](https://github.com/OSU-NLP-Group/Mind2Web)\]
 - SeeAct: **GPT-4V(ision) is a Generalist Web Agent, if Grounded**, _Zheng et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.01614)\]\[[code](https://github.com/OSU-NLP-Group/SeeAct)\]
@@ -207,7 +208,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ##### 3.2.3 Code
 
-- **StarCoder: may the source be with you!**, _Li et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2305.06161)\]\[[code](https://github.com/bigcode-project/starcoder)\]\[[bigcode-project](https://github.com/bigcode-project)\]\[[model](https://huggingface.co/bigcode)\]
+- **StarCoder: may the source be with you**, _Li et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2305.06161)\]\[[code](https://github.com/bigcode-project/starcoder)\]\[[bigcode-project](https://github.com/bigcode-project)\]\[[model](https://huggingface.co/bigcode)\]
 - **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents**, _Yang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.00812)\]
 
 ##### 3.2.4 Financial Application
@@ -246,10 +247,13 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 #### 3.3 LLM Technique
 
+- **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling**, _Biderman et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.01373)\]\[[code](https://github.com/EleutherAI/pythia)\]
+- **Instruction Tuning with GPT-4**, _Peng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.03277)\]\[[code](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)\]
 - CALM: **LLM Augmented LLMs: Expanding Capabilities through Composition**, _Bansal et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.02412)\]
 
 ##### 3.3.1 Alignment
 
+- **Self-Instruct: Aligning Language Models with Self-Generated Instructions**, _Wang et al._, ACL 2023. \[[paper](https://arxiv.org/abs/2212.10560)\]\[[code](https://github.com/yizhongw/self-instruct)\]
 - RLHF: \[[hf blog](https://huggingface.co/blog/rlhf)\]\[[OpenAI blog](https://openai.com/research/learning-from-human-preferences)\]\[[alignment blog](https://openai.com/blog/our-approach-to-alignment-research)\]\[[awesome-RLHF](https://github.com/opendilab/awesome-RLHF)\]
 - DPO: **Direct Preference Optimization: Your Language Model is Secretly a Reward Model**, _Rafailov et al._, NeurIPS 2023 Runner-up Award. \[[paper](https://arxiv.org/abs/2305.18290)\]\[[Unofficial Implementation](https://github.com/eric-mitchell/direct-preference-optimization)\]
 - BPO: **Black-Box Prompt Optimization: Aligning Large Language Models without Model Training**, _Cheng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.04155)\]\[[code](https://github.com/thu-coai/BPO)\]
@@ -276,6 +280,8 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[OpenCompass](https://github.com/open-compass/opencompass)\]
 
 ##### 3.3.5 Hallucination
+
+- **The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models**, _Li et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03205)\]\[[code](https://github.com/RUCAIBox/HaluEval-2.0)\]
 
 ##### 3.3.6 Inference
 
@@ -321,7 +327,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - LLM-Embedder: **Retrieve Anything To Augment Large Language Models**, _Zhang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.07554)\]\[[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/llm_embedder)\]\[[FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)\]
 - \[[m3e-base](https://huggingface.co/moka-ai/m3e-base)\]
 - **Jina Embeddings 2: 8192-Token General-Purpose Text Embeddings for Long Documents**, _Günther et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.19923)\]\[[model](https://huggingface.co/jinaai/jina-embeddings-v2-base-en)\
-- gte: **Towards General Text Embeddings with Multi-stage Contrastive Learning**, _Li et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.03281)\]\[[model](https://huggingface.co/thenlper/gte-large-zh)\
+- GTE: **Towards General Text Embeddings with Multi-stage Contrastive Learning**, _Li et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.03281)\]\[[model](https://huggingface.co/thenlper/gte-large-zh)\
 - \[[BCEmbedding](https://github.com/netease-youdao/BCEmbedding)\]\[[bce-embedding-base_v1](https://huggingface.co/maidalun1020/bce-embedding-base_v1)\]\[[bce-reranker-base_v1](https://huggingface.co/maidalun1020/bce-reranker-base_v1)\]
 - \[[CohereV3](https://huggingface.co/Cohere/Cohere-embed-multilingual-v3.0)\]
 - **Improving Text Embeddings with Large Language Models**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.00368)\]\[[code](https://github.com/microsoft/unilm/tree/master/e5)\]\[[model](https://huggingface.co/intfloat/e5-mistral-7b-instruct)\]
@@ -333,10 +339,16 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 - ReST-EM: **Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models**, _Singh et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.06585)\]\[[unofficial code](https://github.com/lucidrains/ReST-EM-pytorch)\]
 - **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**, _Aksitov et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.10003)\]\[[code]\]
+- **Orca 2: Teaching Small Language Models How to Reason**, _Mitra et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.11045)\]\[[code]\]
 
 #### 3.4 LLM Theory
 
+- **Scaling Laws for Neural Language Models**, _Kaplan et al._, arxiv 2020. \[[paper](https://arxiv.org/abs/2001.08361)\]\[[unofficial code](https://github.com/shehper/scaling_laws)\]
+- **Emergent Abilities of Large Language Models**, _Wei et al._, arxiv 2022. \[[paper](https://arxiv.org/abs/2206.07682)\]
+- Chinchilla: **Training Compute-Optimal Large Language Models**, _Hoffmann et al._, arxiv 2022. \[[paper](https://arxiv.org/abs/2203.15556)\]
+- **Scaling Laws for Autoregressive Generative Modeling**, _Henighan et al._, arxiv 2020. \[[paper](https://arxiv.org/abs/2010.14701)\]
 - **Are Emergent Abilities of Large Language Models a Mirage**, _Schaeffer et al._, NeurIPS 2023 Outstanding Paper. \[[paper](https://arxiv.org/abs/2304.15004)\]
+- S2A: **System 2 Attention (is something you might need too)**, _Weston et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.11829)\]
 
 - **Editing Large Language Models: Problems, Methods, and Opportunities**, _Yao et al._, EMNLP 2023. \[[paper](https://arxiv.org/abs/2305.13172)\]\[[code](https://github.com/zjunlp/EasyEdit)\]
 - **A Comprehensive Study of Knowledge Editing for Large Language Models**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.01286)\]\[[code](https://github.com/zjunlp/EasyEdit)\]
@@ -347,12 +359,21 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Qwen Technical Report**, _Bai et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.16609)\]\[[code](https://github.com/QwenLM/Qwen)\]
 - **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**, _Bi et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.02954)\]\[[DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM)\]\[[DeepSeek-Coder)](https://github.com/deepseek-ai/DeepSeek-Coder)\]
 - **Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca**, Cui et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.08177)\]\[[code](https://github.com/ymcui/Chinese-LLaMA-Alpaca)\]\[[Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)\]
+- **TeleChat Technical Report**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03804)\]\[[code](https://github.com/Tele-AI/Telechat)\]
+- \[[BELLE](https://github.com/LianjiaTech/BELLE)\]
+- \[[Firefly](https://github.com/yangjianxin1/Firefly)\]\[[GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat)\]
 
 ---
 
 ## CV
 
 ### 1. Basic for CV
+- AlexNet: **ImageNet Classification with Deep Convolutional Neural Networks**, _Krizhevsky et al._, NIPS 2012. \[[paper](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)\]
+- VGG: **Very Deep Convolutional Networks for Large-Scale Image Recognition**, _Simonyan et al._, ICLR 2015. \[[paper](https://arxiv.org/abs/1409.1556)\]
+- **GoogLeNet_Going Deeper with Convolutions**, _Szegedy et al._, CVPR 2015. \[[paper](https://arxiv.org/abs/1409.4842)\]
+- **ResNet_Deep Residual Learning for Image Recognition**, _He et al._, CVPR 2016 Best Paper. \[[paper](https://arxiv.org/abs/1512.03385)\]\[[code](https://github.com/KaimingHe/deep-residual-networks)\]
+- DenseNet: **Densely Connected Convolutional Networks**, _Huang et al._, CVPR 2017 Oral. \[[paper](https://arxiv.org/abs/1608.06993)\]\[[code](https://github.com/liuzhuang13/DenseNet)\]
+- **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**, _Tan et al._, ICML 2019. \[[paper](https://arxiv.org/abs/1905.11946)\]\[[code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)\]
 
 ### 2. Contrastive Learning
 
