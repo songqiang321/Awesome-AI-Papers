@@ -102,6 +102,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **On the Properties of Neural Machine Translation: Encoder-Decoder Approaches**, _Cho et al._, arxiv 2014. \[[paper](https://arxiv.org/abs/1409.1259)\]
 - **Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation**, _Cho et al._, arxiv 2014. \[[paper](https://arxiv.org/abs/1406.1078)\]
 - \[[fairseq](https://github.com/facebookresearch/fairseq)\]
+- \[[pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq)\]
 
 ### 3. Pretraining
 
@@ -109,7 +110,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - GPT: **Improving language understanding by generative pre-training**, _Radford et al._, preprint 2018.  \[[paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)\]\[[code](https://github.com/openai/finetune-transformer-lm)\]
 - GPT-2: **Language Models are Unsupervised Multitask Learners**, _Radford et al._, OpenAI blog 2019. \[[paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)\]\[[code](https://github.com/openai/gpt-2)\]
 - GPT-3: **Language Models are Few-Shot Learners**, _Brown et al._, NeurIPS 2020. \[[paper](https://arxiv.org/abs/2005.14165)\]\[[nanoGPT](https://github.com/karpathy/nanoGPT)\]\[[gpt-fast](https://github.com/pytorch-labs/gpt-fast)\]
-- InstructGPT: **Training language models to follow instructions with human feedback**, _Ouyang et al._, NeurIPS 2022. \[[paper](https://arxiv.org/abs/2203.02155)\]\[[code]\]
+- InstructGPT: **Training language models to follow instructions with human feedback**, _Ouyang et al._, NeurIPS 2022. \[[paper](https://arxiv.org/abs/2203.02155)\]\[[MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)\]
 - **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**, _Devlin et al._, arxiv 2018. \[[paper](https://arxiv.org/abs/1810.04805)\]\[[code](https://github.com/google-research/bert)\]
 - **RoBERTa: A Robustly Optimized BERT Pretraining Approach**, _Liu et al._, arxiv 2019. \[[paper](https://arxiv.org/abs/1907.11692)\]\[[code](https://github.com/facebookresearch/fairseq)\]
 - **What Does BERT Look At_An Analysis of BERT's Attention**, _Clark et al._, arxiv 2019. \[[paper](https://arxiv.org/abs/1906.04341)\]\[[code](https://github.com/clarkkev/attention-analysis)\]
@@ -200,6 +201,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[babyagi](https://github.com/yoheinakajima/babyagi)\]
 - \[[open-interpreter](https://github.com/KillianLucas/open-interpreter)\]\[[Homepage](https://openinterpreter.com/)\]
 - **XAgent: An Autonomous Agent for Complex Task Solving**, \[[blog](https://blog.x-agent.net/blog/xagent/)\]\[[code](https://github.com/OpenBMB/XAgent)\]
+- \[[crewAI](https://github.com/joaomdmoura/crewAI)\]
 
 ##### 3.2.2 Academic
 
@@ -255,6 +257,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 - **Self-Instruct: Aligning Language Models with Self-Generated Instructions**, _Wang et al._, ACL 2023. \[[paper](https://arxiv.org/abs/2212.10560)\]\[[code](https://github.com/yizhongw/self-instruct)\]
 - RLHF: \[[hf blog](https://huggingface.co/blog/rlhf)\]\[[OpenAI blog](https://openai.com/research/learning-from-human-preferences)\]\[[alignment blog](https://openai.com/blog/our-approach-to-alignment-research)\]\[[awesome-RLHF](https://github.com/opendilab/awesome-RLHF)\]
+- **Secrets of RLHF in Large Language Models** \[[MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)\]\[[Part I](https://arxiv.org/abs/2307.04964)\]\[[Part II](https://arxiv.org/abs/2401.06080)\]
 - DPO: **Direct Preference Optimization: Your Language Model is Secretly a Reward Model**, _Rafailov et al._, NeurIPS 2023 Runner-up Award. \[[paper](https://arxiv.org/abs/2305.18290)\]\[[Unofficial Implementation](https://github.com/eric-mitchell/direct-preference-optimization)\]
 - BPO: **Black-Box Prompt Optimization: Aligning Large Language Models without Model Training**, _Cheng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.04155)\]\[[code](https://github.com/thu-coai/BPO)\]
 - **RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback**, _Lee et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.00267)\]\[[code]\]
@@ -360,6 +363,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**, _Bi et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.02954)\]\[[DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM)\]\[[DeepSeek-Coder)](https://github.com/deepseek-ai/DeepSeek-Coder)\]
 - **Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca**, Cui et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.08177)\]\[[code](https://github.com/ymcui/Chinese-LLaMA-Alpaca)\]\[[Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)\]
 - **TeleChat Technical Report**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03804)\]\[[code](https://github.com/Tele-AI/Telechat)\]
+- \[[MOSS](https://github.com/OpenLMLab/MOSS)\]\[[MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)\]
 - \[[BELLE](https://github.com/LianjiaTech/BELLE)\]
 - \[[Firefly](https://github.com/yangjianxin1/Firefly)\]\[[GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat)\]
 
@@ -569,7 +573,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ## Transformer Architecture
 
-- **Attention is All you Need**, _Vaswani et al._, NIPS 2017. \[[paper](https://arxiv.org/abs/1706.03762)\]\[[code](https://github.com/jadore801120/attention-is-all-you-need-pytorch)\]\[[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)\]
+- **Attention is All you Need**, _Vaswani et al._, NIPS 2017. \[[paper](https://arxiv.org/abs/1706.03762)\]\[[code](https://github.com/jadore801120/attention-is-all-you-need-pytorch)\]\[[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)\]\[[Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)\]
 - RoPE: **RoFormer: Enhanced Transformer with Rotary Position Embedding**, _Su et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2104.09864)\]\[[code](https://github.com/ZhuiyiTechnology/roformer)\]\[[rotary-embedding-torch](https://github.com/lucidrains/rotary-embedding-torch)\]\[[blog](https://kexue.fm/archives/9675)\]
 - **RWKV: Reinventing RNNs for the Transformer Era**, _Peng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2305.13048)\]\[[code](https://github.com/BlinkDL/RWKV-LM)\]
 - **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, _Gu and Dao_, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.00752)\]\[[code](https://github.com/state-spaces/mamba)\]
