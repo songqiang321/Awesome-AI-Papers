@@ -205,8 +205,9 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ##### 3.2.2 Academic
 
-- **K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization**, _Deng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2306.05064)\]\[[code](https://github.com/davendw49/k2)\]
-- **Galactica: A Large Language Model for Science**, _Taylor et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2211.09085)\]\[[code](https://github.com/geobrain-ai/geogalactica)\]
+- **Galactica: A Large Language Model for Science**, _Taylor et al._, arxiv 2022. \[[paper](https://arxiv.org/abs/2211.09085)\]
+- **K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization**, _Deng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2306.05064)\]\[[code](https://github.com/davendw49/k2)\]\[[pdf_parser](https://github.com/Acemap/pdf_parser)\]
+- **GeoGalactica: A Scientific Large Language Model in Geoscience**, _Lin et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.00434)\]\[[code](https://github.com/geobrain-ai/geogalactica)\]\[[sciparser](https://github.com/davendw49/sciparser)\]
 
 ##### 3.2.3 Code
 
@@ -263,7 +264,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback**, _Lee et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.00267)\]\[[code]\]
 - **ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models**, _Li et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.10505)\]\[[code](https://github.com/liziniu/ReMax)\]
 - **Policy Optimization in RLHF: The Impact of Out-of-preference Data**, _Li et al._, \[[paper](https://arxiv.org/abs/2312.10584)\]\[[code](https://github.com/liziniu/policy_optimization)\]
-- **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision**, _Burns et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.09390)\]
+- **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision**, _Burns et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.09390)\]\[[code](https://github.com/openai/weak-to-strong)\]
 - SPIN: **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**, _Chen et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.01335)\]\[[code]\]
 
 ##### 3.3.2 Context Length
@@ -288,6 +289,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ##### 3.3.6 Inference
 
+- **Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems**, _Miao et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.15234)\]
 - **LLM in a flash: Efficient Large Language Model Inference with Limited Memory**, _Alizadeh et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.11514)\]\[[air_llm](https://github.com/lyogavin/Anima/tree/main/air_llm)\]
 
 ##### 3.3.7 MoE
@@ -300,6 +302,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 - \[[DeepSpeed](https://github.com/microsoft/DeepSpeed)\]
 - \[[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)\]
+- \[[Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed)\]\[[Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed)\]
 
 ##### 3.3.9 Prompt Learning
 
@@ -365,6 +368,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **TeleChat Technical Report**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03804)\]\[[code](https://github.com/Tele-AI/Telechat)\]
 - \[[MOSS](https://github.com/OpenLMLab/MOSS)\]\[[MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)\]
 - \[[BELLE](https://github.com/LianjiaTech/BELLE)\]
+- \[[FlagAlpha/Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese)\]\[[LinkSoul-AI/Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b)\]
 - \[[Firefly](https://github.com/yangjianxin1/Firefly)\]\[[GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat)\]
 
 ---
