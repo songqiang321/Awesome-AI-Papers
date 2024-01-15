@@ -110,7 +110,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Attention Is All You Need**, _Vaswani et al._, NIPS 2017. \[[paper](https://arxiv.org/abs/1706.03762)\]\[[code](https://github.com/tensorflow/tensor2tensor)\]
 - GPT: **Improving language understanding by generative pre-training**, _Radford et al._, preprint 2018.  \[[paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)\]\[[code](https://github.com/openai/finetune-transformer-lm)\]
 - GPT-2: **Language Models are Unsupervised Multitask Learners**, _Radford et al._, OpenAI blog 2019. \[[paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)\]\[[code](https://github.com/openai/gpt-2)\]
-- GPT-3: **Language Models are Few-Shot Learners**, _Brown et al._, NeurIPS 2020. \[[paper](https://arxiv.org/abs/2005.14165)\]\[[nanoGPT](https://github.com/karpathy/nanoGPT)\]\[[gpt-fast](https://github.com/pytorch-labs/gpt-fast)\]
+- GPT-3: **Language Models are Few-Shot Learners**, _Brown et al._, NeurIPS 2020. \[[paper](https://arxiv.org/abs/2005.14165)\]\[[code](https://github.com/openai/gpt-3)\]\[[nanoGPT](https://github.com/karpathy/nanoGPT)\]\[[gpt-fast](https://github.com/pytorch-labs/gpt-fast)\]
 - InstructGPT: **Training language models to follow instructions with human feedback**, _Ouyang et al._, NeurIPS 2022. \[[paper](https://arxiv.org/abs/2203.02155)\]\[[MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)\]
 - **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**, _Devlin et al._, arxiv 2018. \[[paper](https://arxiv.org/abs/1810.04805)\]\[[code](https://github.com/google-research/bert)\]
 - **RoBERTa: A Robustly Optimized BERT Pretraining Approach**, _Liu et al._, arxiv 2019. \[[paper](https://arxiv.org/abs/1907.11692)\]\[[code](https://github.com/facebookresearch/fairseq)\]
@@ -277,6 +277,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Policy Optimization in RLHF: The Impact of Out-of-preference Data**, _Li et al._, \[[paper](https://arxiv.org/abs/2312.10584)\]\[[code](https://github.com/liziniu/policy_optimization)\]
 - **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision**, _Burns et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.09390)\]\[[code](https://github.com/openai/weak-to-strong)\]
 - SPIN: **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**, _Chen et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.01335)\]\[[code]\]
+- Anthropic: **Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training**, _Hubinger et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.05566)\]
 
 ##### 3.3.2 Context Length
 
@@ -302,6 +303,9 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 - **Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems**, _Miao et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.15234)\]
 - **LLM in a flash: Efficient Large Language Model Inference with Limited Memory**, _Alizadeh et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.11514)\]\[[air_llm](https://github.com/lyogavin/Anima/tree/main/air_llm)\]
+- **LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models**, _Jiang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.05736)\]\[[code](https://github.com/microsoft/LLMLingua)\]
+- \[[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)\]
+- \[[DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII)\]\[[ONNX Runtime](https://github.com/microsoft/onnxruntime)\]
 
 ##### 3.3.7 MoE
 
@@ -314,6 +318,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[DeepSpeed](https://github.com/microsoft/DeepSpeed)\]
 - \[[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)\]
 - \[[Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed)\]\[[Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed)\]
+- \[[PEFT](https://github.com/huggingface/peft)\]\[[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)\]
 
 ##### 3.3.9 Prompt Learning
 
@@ -330,8 +335,10 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation**, _Vu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.03214)\]\[[code](https://github.com/freshllms/freshqa)\]
 - **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**, _Yu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.09210)\]
 - **ACL 2023 Tutorial: Retrieval-based Language Models and Applications**, _Asai et al._, ACL 2023. \[[link](https://acl2023-retrieval-lm.github.io/)\]
+- \[[Advanced RAG Techniques: an Illustrated Overview](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)\]\[[Chinese Version](https://zhuanlan.zhihu.com/p/674755232)\]
 - \[[LangChain](https://github.com/langchain-ai/langchain)\]
 - \[[LlamaIndex](https://github.com/run-llama/llama_index)\]\[[A Cheat Sheet and Some Recipes For Building Advanced RAG](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)\]
+- \[[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)\]
 - \[[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)\]
 - **Browse the web with GPT-4V and Vimium** \[[vimGPT](https://github.com/ishan0102/vimGPT)\]
 
@@ -367,6 +374,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Are Emergent Abilities of Large Language Models a Mirage**, _Schaeffer et al._, NeurIPS 2023 Outstanding Paper. \[[paper](https://arxiv.org/abs/2304.15004)\]
 - S2A: **System 2 Attention (is something you might need too)**, _Weston et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.11829)\]
 
+- ROME: **Locating and Editing Factual Associations in GPT**, _Meng et al._, NeurIPS 2022. \[[paper](https://arxiv.org/abs/2202.05262)\]\[[code](https://github.com/kmeng01/rome)\]\[[FastEdit](https://github.com/hiyouga/FastEdit)\]
 - **Editing Large Language Models: Problems, Methods, and Opportunities**, _Yao et al._, EMNLP 2023. \[[paper](https://arxiv.org/abs/2305.13172)\]\[[code](https://github.com/zjunlp/EasyEdit)\]
 - **A Comprehensive Study of Knowledge Editing for Large Language Models**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.01286)\]\[[code](https://github.com/zjunlp/EasyEdit)\]
 
@@ -398,6 +406,8 @@ This repository is used to collect papers and code in the field of AI. The conte
 ### 2. Contrastive Learning
 
 ### 3. CV Application
+
+- **ReplaceAnything as you want: Ultra-high quality content replacement**, \[[link](https://aigcdesigngroup.github.io/replace-anything/)\]
 
 ### 4. Foundation Model
 
