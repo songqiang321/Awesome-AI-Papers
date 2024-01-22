@@ -127,6 +127,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Challenges and Applications of Large Language Models**, _Kaddour et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2307.10169)\]
 - **A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT**, _Zhou et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2302.09419)\]
 - **From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape**, _Mclntosh et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.10868)\]
+- **A Survey of Resource-efficient LLM and Multimodal Foundation Models**, _Xu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.08092)\]\[[code](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 - Anthropic: **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback**, _Bai et al._, arxiv 2022. \[[paper](https://arxiv.org/abs/2204.05862)\]\[[code](https://github.com/anthropics/hh-rlhf)\]
 - Anthropic: **Constitutional AI: Harmlessness from AI Feedback**, _Bai et al._, arxiv 2022. \[[paper](https://arxiv.org/abs/2212.08073)\]\[[code](https://github.com/anthropics/ConstitutionalHarmlessnessPaper)\]
 - Anthropic: **Model Card and Evaluations for Claude Models**, Anthropic, 2023. \[[paper](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf)\]
@@ -293,6 +294,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 ##### 3.3.2 Context Length
 
 - **StreamingLLM: Efficient Streaming Language Models with Attention Sinks**, _Xiao et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2309.17453)\]\[[code](https://github.com/mit-han-lab/streaming-llm)\]\[[SwiftInfer](https://github.com/hpcaitech/SwiftInfer)\]\[[SwiftInfer blog](https://hpc-ai.com/blog/colossal-ai-swiftinfer)\]
+- **LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression**, _Jiang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.06839)\]\[[code](https://github.com/microsoft/LLMLingua)\]
 
 ##### 3.3.3 Corpus
 
@@ -303,6 +305,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - MMLU: **Measuring Massive Multitask Language Understanding**, _Hendrycks et al._, ICLR 2021.  \[[paper](https://arxiv.org/abs/2009.03300)\]\[[code](https://github.com/hendrycks/test)\]
 - HELM: **Holistic Evaluation of Language Models**, _Liang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2211.09110)\]\[[code](https://github.com/stanford-crfm/helm)\]
 - **SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark**, _Xu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2307.15020)\]\[[code](https://github.com/CLUEbenchmark/SuperCLUE)\]
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**, _Huang et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2305.08322)\]\[[code](https://github.com/hkust-nlp/ceval)\]
 - \[[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)\]
 - \[[AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)\]
 - \[[Chatbot-Arena-Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)\]\[[blog](https://lmsys.org/blog/2023-05-03-arena/)\]\[[FastChat](https://github.com/lm-sys/FastChat)\]
@@ -326,6 +329,8 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU**, _Song et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.12456)\]\[[code](https://github.com/SJTU-IPADS/PowerInfer)\]\[[llama.cpp](https://github.com/ggerganov/llama.cpp)\]\[[Anima](https://github.com/lyogavin/Anima)\]
 - vllm: **Efficient Memory Management for Large Language Model Serving with PagedAttention**, _Kwon et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.06180)\]\[[code](https://github.com/vllm-project/vllm)\]
 - **Fast and Expressive LLM Inference with RadixAttention and SGLang**, _Zheng et al._, Stanford blog 2024. \[[blog](https://lmsys.org/blog/2024-01-17-sglang/)\]\[[code](https://github.com/sgl-project/sglang/)\]
+- **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**, _Cai et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.10774)\]\[[code](https://github.com/FasterDecoding/Medusa)\]
+- **APAR: LLMs Can Do Auto-Parallel Auto-Regressive Decoding**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.06761)\]\[[code]\]
 - \[[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)\]\[[FasterTransformer](https://github.com/NVIDIA/FasterTransformer)\]
 - \[[DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII)\]\[[DeepSpeed-FastGen](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen)\]\[[ONNX Runtime](https://github.com/microsoft/onnxruntime)\]\[[onnx](https://github.com/onnx/onnx)\]
 - \[[text-generation-inference](https://github.com/huggingface/text-generation-inference)\]\[[quantization](https://huggingface.co/docs/transformers/main/en/quantization)\]
