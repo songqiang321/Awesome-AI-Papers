@@ -189,7 +189,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Agents: An Open-source Framework for Autonomous Language Agents**, _Zhou et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.07870)\]\[[code](https://github.com/aiwaves-cn/agents)\]
 - **AgentBench: Evaluating LLMs as Agents**, _Liu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.03688)\]\[[code](https://github.com/THUDM/AgentBench)\]
 - **AgentTuning: Enabling Generalized Agent Abilities for LLMs**, _Zeng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.12823)\]\[[code](https://github.com/THUDM/AgentTuning)\]
-- **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.10848)\]\[[code](https://github.com/OpenBMB/AgentVerse/)\]
+- **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors**, _Chen et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2308.10848)\]\[[code](https://github.com/OpenBMB/AgentVerse/)\]
 - **AppAgent: Multimodal Agents as Smartphone Users**, _Zhang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.13771)\]\[[code](https://github.com/mnotgod96/AppAgent)\]
 - **Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security**, _Li et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.05459)\]\[[code](https://github.com/MobileLLM/Personal_LLM_Agents_Survey)\]
 - **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation**, _Wu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.08155)\]\[[code](https://github.com/microsoft/autogen)\]
@@ -245,6 +245,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ##### 3.2.6 Math
 
+- **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**, _Gou et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2309.17452)\]\[[code](https://github.com/microsoft/ToRA)\]
 - **MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V, Bard, and Other Large Multimodal Models**, _Lu et al._, ICLR 2024 Oral. \[[paper](https://arxiv.org/abs/2310.02255)\]\[[code](https://github.com/lupantech/MathVista)\]
 
 ##### 3.2.7 Medicine and Law
@@ -262,7 +263,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 - **Tool Learning with Foundation Models**, _Qin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.08354)\]\[[code](https://github.com/OpenBMB/BMTools)\]
 - **Toolformer: Language Models Can Teach Themselves to Use Tools**, _Schick et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2302.04761)\]\[[toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch)\]\[[toolformer](https://github.com/conceptofmind/toolformer)\]
-- **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, _Qin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2307.16789)\]\[[code](https://github.com/OpenBMB/ToolBench)\]
+- **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, _Qin et al._, ICLR 2024 Spotlight. \[[paper](https://arxiv.org/abs/2307.16789)\]\[[code](https://github.com/OpenBMB/ToolBench)\]
 - **Gorilla: Large Language Model Connected with Massive APIs**, _Patil et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2305.15334)\]\[[code](https://github.com/ShishirPatil/gorilla)\]
 - **GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**, _Yang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2305.18752)\]\[[code](https://github.com/AILab-CVC/GPT4Tools)\]
 - **Large Language Models as Tool Makers**, _Cai et al_, arxiv 2023. \[[paper](https://arxiv.org/abs/2305.17126)\]\[[code](https://github.com/ctlllll/LLM-ToolMaker)\]
@@ -276,6 +277,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **How to Train Really Large Models on Many GPUs**, _Lilian Weng_, 2021. \[[blog](https://lilianweng.github.io/posts/2021-09-25-train-large/)\]
 - **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling**, _Biderman et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.01373)\]\[[code](https://github.com/EleutherAI/pythia)\]
 - **Instruction Tuning with GPT-4**, _Peng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.03277)\]\[[code](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)\]
+- **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**, _Khattab et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.03714)\]\[[code](https://github.com/stanfordnlp/dspy)\]
 - CALM: **LLM Augmented LLMs: Expanding Capabilities through Composition**, _Bansal et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.02412)\]\[[CALM-pytorch](https://github.com/lucidrains/CALM-pytorch)\]
 - **Self-Rewarding Language Models**, _Yuan et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.10020)\]\[[unofficial implementation](https://github.com/lucidrains/self-rewarding-lm-pytorch)\]
 
@@ -333,7 +335,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Fast and Expressive LLM Inference with RadixAttention and SGLang**, _Zheng et al._, Stanford blog 2024. \[[blog](https://lmsys.org/blog/2024-01-17-sglang/)\]\[[code](https://github.com/sgl-project/sglang/)\]
 - **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**, _Cai et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.10774)\]\[[code](https://github.com/FasterDecoding/Medusa)\]
 - **APAR: LLMs Can Do Auto-Parallel Auto-Regressive Decoding**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.06761)\]\[[code]\]
-- \[[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)\]\[[FasterTransformer](https://github.com/NVIDIA/FasterTransformer)\]
+- \[[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)\]\[[FasterTransformer](https://github.com/NVIDIA/FasterTransformer)\]\[[TritonServer](https://github.com/triton-inference-server/server)\]
 - \[[DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII)\]\[[DeepSpeed-FastGen](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen)\]\[[ONNX Runtime](https://github.com/microsoft/onnxruntime)\]\[[onnx](https://github.com/onnx/onnx)\]
 - \[[text-generation-inference](https://github.com/huggingface/text-generation-inference)\]\[[quantization](https://huggingface.co/docs/transformers/main/en/quantization)\]
 - \[[OpenLLM](https://github.com/bentoml/OpenLLM)\]\[[mlc-llm](https://github.com/mlc-ai/mlc-llm)\]
@@ -359,7 +361,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed)\]\[[Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed)\]
 - \[[PEFT](https://github.com/huggingface/peft)\]\[[Transformer Reinforcement Learning](https://github.com/huggingface/trl)\]\[[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)\]
 
-- **LoRA: Low-Rank Adaptation of Large Language Models**, _Hu et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2106.09685)\]\[[code](https://github.com/microsoft/LoRA)\]
+- **LoRA: Low-Rank Adaptation of Large Language Models**, _Hu et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2106.09685)\]\[[code](https://github.com/microsoft/LoRA)\]\[[LoRA From Scratch](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch)\]
 - **QLoRA: Efficient Finetuning of Quantized LLMs**, _Dettmers et al._, NeurIPS 2023 Oral. \[[paper](https://arxiv.org/abs/2305.14314)\]\[[code](https://github.com/artidoro/qlora)\]\[[bitsandbytes](https://github.com/TimDettmers/bitsandbytes)\]\[[unsloth
 ](https://github.com/unslothai/unsloth)\]
 - **Prefix-Tuning: Optimizing Continuous Prompts for Generation**, _Li et al._, ACL 2021. \[[paper](https://arxiv.org/abs/2101.00190)\]\[[code](https://github.com/XiangLi1999/PrefixTuning)\]
@@ -375,6 +377,8 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 - **OpenPrompt: An Open-source Framework for Prompt-learning**, _Ding et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2111.01998)\]\[[code](https://github.com/thunlp/OpenPrompt)\]
 - \[[PromptPapers](https://github.com/thunlp/PromptPapers)\]
+
+- **PAL: Program-aided Language Models**, _Gao et al._, ICML 2023. \[[paper](https://arxiv.org/abs/2211.10435)\]\[[code](https://github.com/reasoning-machines/pal)\]
 
 ##### 3.3.10 RAG (Retrieval Augmented Generation)
 
@@ -462,6 +466,8 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ## CV
 
+- **CS231n: Deep Learning for Computer Vision** \[[link](http://cs231n.stanford.edu/)\]
+
 ### 1. Basic for CV
 - AlexNet: **ImageNet Classification with Deep Convolutional Neural Networks**, _Krizhevsky et al._, NIPS 2012. \[[paper](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)\]
 - VGG: **Very Deep Convolutional Networks for Large-Scale Image Recognition**, _Simonyan et al._, ICLR 2015. \[[paper](https://arxiv.org/abs/1409.1556)\]
@@ -480,6 +486,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - UniAD: **Planning-oriented Autonomous Driving**, _Hu et al._, CVPR 2023 Best Paper. \[[paper](https://arxiv.org/abs/2212.10156)\]\[[code](https://github.com/OpenDriveLab/UniAD)\]
 
 - **PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding**, _Li et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.04461)\]\[[code](https://github.com/TencentARC/PhotoMaker)\]
+- **InstantID: Zero-shot Identity-Preserving Generation in Seconds**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.07519)\]\[[code](https://github.com/InstantID/InstantID)\]
 - **ReplaceAnything as you want: Ultra-high quality content replacement**, \[[link](https://aigcdesigngroup.github.io/replace-anything/)\]
 
 ### 4. Foundation Model
@@ -624,6 +631,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - DALL-E3: **Improving Image Generation with Better Captions**, _Betker et al._, OpenAI 2023. \[[paper](https://cdn.openai.com/papers/dall-e-3.pdf)\]\[[code](https://github.com/openai/consistencydecoder)\]\[[blog](https://openai.com/dall-e-3)\]
 - ControlNet: **Adding Conditional Control to Text-to-Image Diffusion Models**, _Zhang et al._, ICCV 2023 Marr Prize. \[[paper](https://arxiv.org/abs/2302.05543)\]\[[code](https://github.com/lllyasviel/ControlNet)\]
 - **AnyText: Multilingual Visual Text Generation And Editing**, _Tuo et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.03054)\]\[[code](https://github.com/tyxsspa/AnyText)\]
+- RPG: **Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs**, _Yang et al._, arxiv 20224. \[[paper](https://arxiv.org/abs/2401.11708)\]\[[code](https://github.com/YangLing0818/RPG-DiffusionMaster)\]
 - **LAION-5B: An open large-scale dataset for training next generation image-text models**, _Schuhmann et al._, NeurIPS 2022. \[[paper](https://arxiv.org/abs/2210.08402)\]\[[code](https://github.com/LAION-AI/laion-datasets)\]\[[blog](https://laion.ai/blog/laion-5b/)\]
 - Imagen: **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**, _Saharia et al._, NeurIPS 2022. \[[paper](https://arxiv.org/abs/2205.11487)\]\[[unofficial code](https://github.com/lucidrains/imagen-pytorch)\]
 - **Instruct-Imagen: Image Generation with Multi-modal Instruction**, _Hu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.01952)\]
