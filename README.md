@@ -145,7 +145,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Sparks of Artificial General Intelligence_Early experiments with GPT-4**, _Bubeck et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2303.12712)\]
 - **The Dawn of LMMs_Preliminary Explorations with GPT-4V(ision)**, _Yang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.17421)\]\[[code](https://github.com/guidance-ai/guidance)\]
 - **LaMDA: Language Models for Dialog Applications**, _Thoppilan et al._, arxiv 2022. \[[paper](https://arxiv.org/abs/2201.08239)\]\[[LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)\]
-- **Code Llama: Open Foundation Models for Code**, _Rozière et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.12950)\]\[[code](https://github.com/facebookresearch/codellama)\]
+- **Code Llama: Open Foundation Models for Code**, _Rozière et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.12950)\]\[[code](https://github.com/facebookresearch/codellama)\]\[[model](https://huggingface.co/codellama)\]
 - **LLaMA: Open and Efficient Foundation Language Models**, _Touvron et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2302.13971)\]\[[code](https://github.com/facebookresearch/llama/tree/llama_v1)\]\[[llama.cpp](https://github.com/ggerganov/llama.cpp)\]\[[ollama](https://github.com/jmorganca/ollama)\]
 - **Llama 2: Open Foundation and Fine-Tuned Chat Models**, _Touvron et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2307.09288)\]\[[code](https://github.com/facebookresearch/llama)\]\[[llama-recipes](https://github.com/facebookresearch/llama-recipes)\]\[[llama2.c](https://github.com/karpathy/llama2.c)\]
 - **TinyLlama: An Open-Source Small Language Model**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.02385)\]\[[code](https://github.com/jzhang38/TinyLlama)\]\[[LiteLlama](https://huggingface.co/ahxt/LiteLlama-460M-1T)\]
@@ -174,7 +174,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **GAIA: A Benchmark for General AI Assistants**, _Mialon et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.12983)\]\[[code](https://huggingface.co/gaia-benchmark)\]
 - **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, _Shen et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2303.17580)\]\[[code](https://github.com/microsoft/JARVIS)\]
 - **MemGPT: Towards LLMs as Operating Systems**, _Packer et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.08560)\]\[[code](https://github.com/cpacker/MemGPT)\]
-- **DB-GPT: Empowering Database Interactions with Private Large Language Models**, _Xue et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.17449)\]\[[code](https://github.com/eosphoros-ai/DB-GPT)\]
+- **DB-GPT: Empowering Database Interactions with Private Large Language Models**, _Xue et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.17449)\]\[[code](https://github.com/eosphoros-ai/DB-GPT)\]\[[DocsGPT](https://github.com/arc53/DocsGPT)\]
 - **OpenChat: Advancing Open-source Language Models with Mixed-Quality Data**, _Wang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.11235)\]\[[code](https://github.com/imoneoi/openchat)\]
 - **Orca: Progressive Learning from Complex Explanation Traces of GPT-4**, _Mukherjee et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2306.02707)\]
 - **PDFTriage: Question Answering over Long, Structured Documents**, _Saad-Falcon et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.08872)\]\[[code]\]
@@ -633,7 +633,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 - **Github Repositories**
 - \[[stable-diffusion](https://github.com/CompVis/stable-diffusion)\]
-- \[[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)\]
+- \[[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)\]\[[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)\]
 - \[[stablediffusion](https://github.com/Stability-AI/stablediffusion?tab=readme-ov-file)\]
 - \[[Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)\]
 - \[[Fooocus](https://github.com/lllyasviel/Fooocus)\]
@@ -643,6 +643,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 ### 5. Multimodal LLM
 
 - LLaVA: **Visual Instruction Tuning**, _Liu et al._, NeurIPS 2023 Oral. \[[paper](https://arxiv.org/abs/2304.08485)\]\[[code](https://github.com/haotian-liu/LLaVA)\]
+- **MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**, _Lin et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.15947)\]\[[code](https://github.com/PKU-YuanGroup/MoE-LLaVA)\]
 
 - **A Survey on Multimodal Large Language Models**, Yin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2306.13549)\]\[[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)\]
 - **Flamingo: a Visual Language Model for Few-Shot Learning**, _Alayrac et al._, NeurIPS 2022. \[[paper](https://arxiv.org/abs/2204.14198)\]\[[open-flamingo](https://github.com/mlfoundations/open_flamingo)\]\[[flamingo-pytorch](https://github.com/lucidrains/flamingo-pytorch)\]
@@ -684,6 +685,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**, _Wu et al._, ICCV 2023. \[[paper](https://arxiv.org/abs/2212.11565)\]\[[code](https://github.com/showlab/Tune-A-Video)\]
 - **Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**, _Khachatryan et al._, ICCV 2023 Oral. \[[paper](https://arxiv.org/abs/2303.13439)\]\[[code](https://github.com/Picsart-AI-Research/Text2Video-Zero)\]
 
+- **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos**, _Ma et al._, AAAI 2024. \[[paper](https://arxiv.org/abs/2304.01186)\]\[[code](https://github.com/mayuelala/FollowYourPose)\]
 - **AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**, _Guo et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2307.04725)\]\[[code](https://github.com/guoyww/AnimateDiff)\]
 - **I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**, _Zhang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.04145)\]\[[code](https://github.com/ali-vilab/i2vgen-xl)\]
 - TF-T2V: **A Recipe for Scaling up Text-to-Video Generation with Text-free Videos**, _Wang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.15770)\]\[[code](https://github.com/ali-vilab/i2vgen-xl)\]
