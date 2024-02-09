@@ -139,7 +139,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - Codex: **Evaluating Large Language Models Trained on Code**, _Chen et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2107.03374)\]\[[code](https://github.com/openai/human-eval)\]
 - **Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training**, _Li et al._, ICPP 2023. \[[paper](https://arxiv.org/abs/2110.14883)\]\[[code](https://github.com/hpcaitech/ColossalAI)\]
 - **GPT-NeoX-20B: An Open-Source Autoregressive Language Model**, _Black et al._, arxiv 2022. \[[paper](https://arxiv.org/abs/2204.06745)\]\[[code](https://github.com/EleutherAI/gpt-neox)\]
-- **Gemini: A Family of Highly Capable Multimodal Models**, _Gemini Team, Google_, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.11805)\]\[[Unofficial Implementation](https://github.com/kyegomez/Gemini)\]
+- **Gemini: A Family of Highly Capable Multimodal Models**, _Gemini Team, Google_, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.11805)\]\[[Gemini 1.0](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)\]\[[Unofficial Implementation](https://github.com/kyegomez/Gemini)\]
 - **GPT-4 Technical Report**, _OpenAI_, arxiv 2023. \[[paper](https://arxiv.org/abs/2303.08774)\]
 - **GPT-4V(ision) System Card**, _OpenAI_, OpenAI blog 2023. \[[paper](https://openai.com/research/gpt-4v-system-card)\]
 - **Sparks of Artificial General Intelligence_Early experiments with GPT-4**, _Bubeck et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2303.12712)\]
@@ -360,6 +360,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ##### 3.3.6 Inference
 
+- **How to make LLMs go fast**, 2023. \[[blog](https://vgel.me/posts/faster-inference/)\]
 - **Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems**, _Miao et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.15234)\]\[[Awesome-Quantization-Papers](https://github.com/Zhen-Dong/Awesome-Quantization-Papers)\]\[[awesome-model-quantization](https://github.com/htqin/awesome-model-quantization)\]
 - **LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale**, _Dettmers et al._, NeurIPS 2022. \[[paper](https://arxiv.org/abs/2208.07339)\]\[[code](https://github.com/TimDettmers/bitsandbytes)\]
 - **LLM-FP4: 4-Bit Floating-Point Quantized Transformers**, _Liu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.16836)\]\[[code](https://github.com/nbasyl/LLM-FP4)\]
@@ -505,7 +506,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 #### 3.5 Chinese Model
 
-- \[[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)\]
+- \[[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)\]\[[awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)\]
 - **GLM: General Language Model Pretraining with Autoregressive Blank Infilling**, _Du et al._, ACL 2022. \[[paper](https://arxiv.org/abs/2103.10360)\]\[[code](https://github.com/THUDM/GLM)\]\[[ChatGLM3](https://github.com/THUDM/ChatGLM3)\]
 - **GLM-130B: An Open Bilingual Pre-trained Model**, _Zeng et al._, ICLR 2023. \[[paper](https://arxiv.org/abs/2210.02414v2)\]\[[code](https://github.com/THUDM/GLM-130B/)\]
 - **Baichuan 2: Open Large-scale Language Models**, _Yang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.10305)\]\[[code](https://github.com/baichuan-inc/Baichuan2)\]
