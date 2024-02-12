@@ -54,7 +54,7 @@ This repository is used to collect papers and code in the field of AI. The conte
   │      ├─ PEFT/     
   │      ├─ Prompt Learning/   
   │      ├─ RAG/       
-  │      └─ Reasoning/       
+  │      └─ Reasoning and Planning/       
   │    ├─ LLM Theory/       
   │    └─ Chinese Model/             
   ├─ CV/  
@@ -337,7 +337,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ##### 3.3.3 Corpus
 
-- \[[datatrove](https://github.com/huggingface/datatrove)\]
+- \[[datatrove](https://github.com/huggingface/datatrove)\]\[[datasets](https://github.com/huggingface/datasets)\]
 - C4: **Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus**, _Dodge et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2104.08758)\]\[[dataset](https://huggingface.co/datasets/allenai/c4)\]
 - **The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset**, _Laurençon et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2303.03915)\]\[[code](https://github.com/bigscience-workshop/data-preparation)\]\[[dataset](https://huggingface.co/bigscience-data)\]
 - **Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research**, _Soldaini et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.00159)\]\[[code](https://github.com/allenai/dolma)\]\[[OLMo](https://github.com/allenai/OLMo)\]
@@ -465,7 +465,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Improving Text Embeddings with Large Language Models**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.00368)\]\[[code](https://github.com/microsoft/unilm/tree/master/e5)\]\[[model](https://huggingface.co/intfloat/e5-mistral-7b-instruct)\]
 - **Nomic Embed: Training a Reproducible Long Context Text Embedder**, _Nussbaum et al._, Nomic AI 2024. \[[paper](https://static.nomic.ai/reports/2024_Nomic_Embed_Text_Technical_Report.pdf)\]\[[code](https://github.com/nomic-ai/contrastors)\]
 
-##### 3.3.11 Reasoning
+##### 3.3.11 Reasoning and Planning
 
 - Few-Shot-CoT: **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**, _Wei et al._, NeurIPS 2022. \[[paper](https://arxiv.org/abs/2201.11903)\]\[[chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub)\]
 - **Self-Consistency Improves Chain of Thought Reasoning in Language Models**, _Wang et al._, ICLR 2023. \[[paper](https://arxiv.org/abs/2203.11171)\]
@@ -518,6 +518,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**, _Bi et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.02954)\]\[[DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM)\]\[[DeepSeek-Coder)](https://github.com/deepseek-ai/DeepSeek-Coder)\]
 - **Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca**, Cui et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.08177)\]\[[code](https://github.com/ymcui/Chinese-LLaMA-Alpaca)\]\[[Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)\]\[[baby-llama2-chinese](https://github.com/DLLXW/baby-llama2-chinese)\]
 - **TeleChat Technical Report**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03804)\]\[[code](https://github.com/Tele-AI/Telechat)\]
+- **Rethinking Optimization and Architecture for Tiny Language Models**, _Tang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02791)\]\[[code](https://github.com/YuchuanTian/RethinkTinyLM)\]
 - \[[Yi](https://github.com/01-ai/Yi)\]\[[InternLM](https://github.com/InternLM/InternLM)\]\[[MiniCPM](https://github.com/OpenBMB/MiniCPM)\]\[[Orion](https://github.com/OrionStarAI/Orion)\]
 - \[[MOSS](https://github.com/OpenLMLab/MOSS)\]\[[MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)\]
 - \[[BELLE](https://github.com/LianjiaTech/BELLE)\]\[[Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)\]
@@ -554,7 +555,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding**, _Li et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.04461)\]\[[code](https://github.com/TencentARC/PhotoMaker)\]
 - **InstantID: Zero-shot Identity-Preserving Generation in Seconds**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.07519)\]\[[code](https://github.com/InstantID/InstantID)\]
 - **ReplaceAnything as you want: Ultra-high quality content replacement**, \[[link](https://aigcdesigngroup.github.io/replace-anything/)\]
-- \[[deepfakes/faceswap](https://github.com/deepfakes/faceswap)\]
+- \[[deepfakes/faceswap](https://github.com/deepfakes/faceswap)\]\[[DeepFaceLab](https://github.com/iperov/DeepFaceLab)\]\[[DeepFaceLive](https://github.com/iperov/DeepFaceLive)\]
 - \[[IOPaint](https://github.com/Sanster/IOPaint)\]
 
 ### 4. Foundation Model
@@ -750,6 +751,12 @@ This repository is used to collect papers and code in the field of AI. The conte
 ## Reinforcement Learning
 
 ### 1.Basic for RL
+
+- DQN: **Playing Atari with Deep Reinforcement Learning**, _Mnih et al._, arxiv 2013. \[[paper](https://arxiv.org/abs/1312.5602)\]\[[code](https://github.com/higgsfield/RL-Adventure/blob/master/1.dqn.ipynb)\]
+- DQNNaturePaper: **Human-level control through deep reinforcement learning**, _Mnih et al._, Nature 2015. \[[paper](https://www.nature.com/articles/nature14236)\]\[[DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow)\]\[[DQN_pytorch](https://github.com/dxyang/DQN_pytorch)\]
+- DDQN: **Deep Reinforcement Learning with Double Q-learning**, _Hasselt et al._, AAAI 2016. \[[paper](https://arxiv.org/abs/1509.06461)\]\[[RL-Adventure](https://github.com/higgsfield/RL-Adventure)\]\[[deep-q-learning](https://github.com/keon/deep-q-learning)\]\[[](https://github.com/germain-hug/Deep-RL-Keras)\]
+- **Rainbow: Combining Improvements in Deep Reinforcement Learning**, _Hesssel et al._, AAAI 2018. \[[paper](https://arxiv.org/abs/1710.02298)\]\[[Rainbow](https://github.com/Kaixhin/Rainbow)\]
+- DDPG: **Continuous control with deep reinforcement learning**, _Lillicrap et al._, ICLR 2016. \[[paper](https://arxiv.org/abs/1509.02971)\]\[[pytorch-ddpg](https://github.com/ghliu/pytorch-ddpg)\]
 
 - PPO: **Proximal Policy Optimization Algorithms**, _Schulman et al._, arxiv 2017. \[[paper](https://arxiv.org/abs/1707.06347)\]\[[code](https://github.com/openai/baselines)\]\[[PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch)\]\[[implementation-matters](https://github.com/MadryLab/implementation-matters)\]\[[PPOxFamily](https://github.com/opendilab/PPOxFamily)\]
 
