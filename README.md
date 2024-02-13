@@ -233,6 +233,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization**, _Deng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2306.05064)\]\[[code](https://github.com/davendw49/k2)\]\[[pdf_parser](https://github.com/Acemap/pdf_parser)\]
 - **GeoGalactica: A Scientific Large Language Model in Geoscience**, _Lin et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.00434)\]\[[code](https://github.com/geobrain-ai/geogalactica)\]\[[sciparser](https://github.com/davendw49/sciparser)\]
 - **Scientific Large Language Models: A Survey on Biological & Chemical Domains**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.14656)\]\[[code](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)\]
+- **ChemLLM: A Chemical Large Language Model**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.06852)\]\[[model](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat)\]
 
 ##### 3.2.3 Code
 
@@ -295,6 +296,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **ToolChain\*: Efficient Action Space Navigation in Large Language Models with A\* Search**, _Zhuang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.13227)\]\[[code]\]
 - **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**, _Lu et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2304.09842)\]\[[code](https://github.com/lupantech/chameleon-llm)\]
 - **ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of Large Language Models in Real-world Scenarios**, _Ye et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.00741)\]\[[code](https://github.com/Junjie-Ye/ToolEyes)\]
+- **AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**, _Du et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.04253)\]\[[code](https://github.com/dyabel/AnyTool)\]
 - \[[ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers)\]
 
 #### 3.3 LLM Technique
@@ -324,7 +326,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Zephyr: Direct Distillation of LM Alignment**, _Tunstall et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.16944)\]\[[code](https://github.com/huggingface/alignment-handbook)\]
 - **Policy Optimization in RLHF: The Impact of Out-of-preference Data**, _Li et al._, \[[paper](https://arxiv.org/abs/2312.10584)\]\[[code](https://github.com/liziniu/policy_optimization)\]
 - **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision**, _Burns et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.09390)\]\[[code](https://github.com/openai/weak-to-strong)\]
-- SPIN: **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**, _Chen et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.01335)\]\[[unofficial implementation](https://github.com/thomasgauthier/LLM-self-play)\]
+- SPIN: **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**, _Chen et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.01335)\]\[[code](https://github.com/uclaml/SPIN)\]\[[unofficial implementation](https://github.com/thomasgauthier/LLM-self-play)\]
 - Anthropic: **Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training**, _Hubinger et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.05566)\]
 - **Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction**, _Ji et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02416)\]\[[code](https://github.com/Aligner2024/aligner)\]
 
@@ -438,6 +440,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**, _Asai et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.11511)\]\[[code](https://github.com/AkariAsai/self-rag)\]
 - **Dense Passage Retrieval for Open-Domain Question Answering**, _Karpukhin et al._, EMNLP 2020. \[[paper](https://arxiv.org/abs/2004.04906)\]\[[code](https://github.com/facebookresearch/DPR)\]
 - **Internet-Augmented Dialogue Generation** _Komeili et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2107.07566)\]
+- RETRO: **Improving language models by retrieving from trillions of tokens**, _Borgeaud et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2112.04426)\]\[[RETRO-pytorch](https://github.com/lucidrains/RETRO-pytorch)\]
 - **FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation**, _Vu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.03214)\]\[[code](https://github.com/freshllms/freshqa)\]
 - **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**, _Yu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.09210)\]
 - **ACL 2023 Tutorial: Retrieval-based Language Models and Applications**, _Asai et al._, ACL 2023. \[[link](https://acl2023-retrieval-lm.github.io/)\]
@@ -676,7 +679,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 - **Github Repositories**
 - \[[stable-diffusion](https://github.com/CompVis/stable-diffusion)\]
-- \[[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)\]\[[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)\]
+- \[[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)\]\[[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)\]\[[stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)\]
 - \[[stablediffusion](https://github.com/Stability-AI/stablediffusion?tab=readme-ov-file)\]
 - \[[Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)\]
 - \[[Fooocus](https://github.com/lllyasviel/Fooocus)\]
