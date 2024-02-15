@@ -176,6 +176,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **GAIA: A Benchmark for General AI Assistants**, _Mialon et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.12983)\]\[[code](https://huggingface.co/gaia-benchmark)\]
 - **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, _Shen et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2303.17580)\]\[[code](https://github.com/microsoft/JARVIS)\]
 - **MemGPT: Towards LLMs as Operating Systems**, _Packer et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.08560)\]\[[code](https://github.com/cpacker/MemGPT)\]
+- **UFO: A UI-Focused Agent for Windows OS Interaction**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.07939)\]\[[code](https://github.com/microsoft/UFO)\]
 - **DB-GPT: Empowering Database Interactions with Private Large Language Models**, _Xue et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.17449)\]\[[code](https://github.com/eosphoros-ai/DB-GPT)\]\[[DocsGPT](https://github.com/arc53/DocsGPT)\]
 - **OpenChat: Advancing Open-source Language Models with Mixed-Quality Data**, _Wang et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2309.11235)\]\[[code](https://github.com/imoneoi/openchat)\]
 - **Orca: Progressive Learning from Complex Explanation Traces of GPT-4**, _Mukherjee et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2306.02707)\]
