@@ -604,6 +604,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 ### 7. Object Detection
 
 - **YOLOX: Exceeding YOLO Series in 2021**, _Ge et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2107.08430)\]\[[code](https://github.com/Megvii-BaseDetection/YOLOX)\]
+- **YOLO-World: Real-Time Open-Vocabulary Object Detection**, _Cheng et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.17270)\]\[[code](https://github.com/ailab-cvc/yolo-world)\]
 - \[[detectron2](https://github.com/facebookresearch/detectron2)\]\[[yolov5](https://github.com/ultralytics/yolov5)\]
 
 ### 8. Semantic Segmentation
