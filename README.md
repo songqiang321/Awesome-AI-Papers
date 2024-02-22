@@ -144,6 +144,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training**, _Li et al._, ICPP 2023. \[[paper](https://arxiv.org/abs/2110.14883)\]\[[code](https://github.com/hpcaitech/ColossalAI)\]
 - **GPT-NeoX-20B: An Open-Source Autoregressive Language Model**, _Black et al._, arxiv 2022. \[[paper](https://arxiv.org/abs/2204.06745)\]\[[code](https://github.com/EleutherAI/gpt-neox)\]
 - **Gemini: A Family of Highly Capable Multimodal Models**, _Gemini Team, Google_, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.11805)\]\[[Gemini 1.0](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)\]\[[Gemini 1.5](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)\]\[[Unofficial Implementation](https://github.com/kyegomez/Gemini)\]
+- **Gemma: Open Models Based on Gemini Research and Technology**, _Google DeepMind_, 2024. \[[paper](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)\]\[[code](https://github.com/google/gemma_pytorch)\]\[[model](https://ai.google.dev/gemma)\]
 - **GPT-4 Technical Report**, _OpenAI_, arxiv 2023. \[[paper](https://arxiv.org/abs/2303.08774)\]
 - **GPT-4V(ision) System Card**, _OpenAI_, OpenAI blog 2023. \[[paper](https://openai.com/research/gpt-4v-system-card)\]
 - **Sparks of Artificial General Intelligence_Early experiments with GPT-4**, _Bubeck et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2303.12712)\]
@@ -761,7 +762,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**, _Zhang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.04145)\]\[[code](https://github.com/ali-vilab/i2vgen-xl)\]
 - TF-T2V: **A Recipe for Scaling up Text-to-Video Generation with Text-free Videos**, _Wang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.15770)\]\[[code](https://github.com/ali-vilab/i2vgen-xl)\]
 - **Lumiere: A Space-Time Diffusion Model for Video Generation**, _Bar-Tal et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.12945)\]\[[lumiere-pytorch](https://github.com/lucidrains/lumiere-pytorch)\]
-- **Sora: Creating video from text**, _OpenAI_, 2024. \[[blog](https://openai.com/sora)\]
+- **Sora: Creating video from text**, _OpenAI_, 2024. \[[blog](https://openai.com/sora)\]\[[minisora](https://github.com/mini-sora/minisora)\]
 - **VideoPoet: A Large Language Model for Zero-Shot Video Generation**, _Kondratyuk et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.14125)\]
 - **Latte: Latent Diffusion Transformer for Video Generation**, _Ma et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03048)\]\[[code](https://github.com/Vchitect/Latte)\]
 
@@ -784,13 +785,16 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ### 1.Basic for RL
 
+- **Deep Reinforcement Learning: Pong from Pixels**, _Andrej Karpathy_, 2016. \[[blog](https://karpathy.github.io/2016/05/31/rl/)\]
 - DQN: **Playing Atari with Deep Reinforcement Learning**, _Mnih et al._, arxiv 2013. \[[paper](https://arxiv.org/abs/1312.5602)\]\[[code](https://github.com/higgsfield/RL-Adventure/blob/master/1.dqn.ipynb)\]
 - DQNNaturePaper: **Human-level control through deep reinforcement learning**, _Mnih et al._, Nature 2015. \[[paper](https://www.nature.com/articles/nature14236)\]\[[DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow)\]\[[DQN_pytorch](https://github.com/dxyang/DQN_pytorch)\]
-- DDQN: **Deep Reinforcement Learning with Double Q-learning**, _Hasselt et al._, AAAI 2016. \[[paper](https://arxiv.org/abs/1509.06461)\]\[[rlkit](https://github.com/rail-berkeley/rlkit/blob/master/examples/dqn_and_double_dqn.py)\]\[[RL-Adventure](https://github.com/higgsfield/RL-Adventure)\]\[[deep-q-learning](https://github.com/keon/deep-q-learning)\]\[[Deep-RL-Keras](https://github.com/germain-hug/Deep-RL-Keras)\]
+- DDQN: **Deep Reinforcement Learning with Double Q-learning**, _Hasselt et al._, AAAI 2016. \[[paper](https://arxiv.org/abs/1509.06461)\]\[[RL-Adventure](https://github.com/higgsfield/RL-Adventure)\]\[[deep-q-learning](https://github.com/keon/deep-q-learning)\]\[[Deep-RL-Keras](https://github.com/germain-hug/Deep-RL-Keras)\]
 - **Rainbow: Combining Improvements in Deep Reinforcement Learning**, _Hesssel et al._, AAAI 2018. \[[paper](https://arxiv.org/abs/1710.02298)\]\[[Rainbow](https://github.com/Kaixhin/Rainbow)\]
 - DDPG: **Continuous control with deep reinforcement learning**, _Lillicrap et al._, ICLR 2016. \[[paper](https://arxiv.org/abs/1509.02971)\]\[[pytorch-ddpg](https://github.com/ghliu/pytorch-ddpg)\]
 
 - PPO: **Proximal Policy Optimization Algorithms**, _Schulman et al._, arxiv 2017. \[[paper](https://arxiv.org/abs/1707.06347)\]\[[code](https://github.com/openai/baselines)\]\[[PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch)\]\[[implementation-matters](https://github.com/MadryLab/implementation-matters)\]\[[PPOxFamily](https://github.com/opendilab/PPOxFamily)\]
+
+- \[[tianshou](https://github.com/thu-ml/tianshou)\]\[[rlkit](https://github.com/rail-berkeley/rlkit)\]
 
 ### 2. LLM for decision making 
 
