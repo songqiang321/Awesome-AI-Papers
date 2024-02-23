@@ -415,7 +415,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[DeepSpeed](https://github.com/microsoft/DeepSpeed)\]\[[DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples)\]
 - \[[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)\]
 - \[[Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed)\]\[[Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed)\]
-- \[[PEFT](https://github.com/huggingface/peft)\]\[[trl](https://github.com/huggingface/trl)\]\[[accelerate](https://github.com/huggingface/accelerate)\]\[[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)\]
+- \[[PEFT](https://github.com/huggingface/peft)\]\[[trl](https://github.com/huggingface/trl)\]\[[accelerate](https://github.com/huggingface/accelerate)\]\[[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)\]\[[MFTCoder](https://github.com/codefuse-ai/MFTCoder)\]
 - \[[mergekit](https://github.com/cg123/mergekit)\]\[[Model Merging](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)\]\[[OpenChatKit](https://github.com/togethercomputer/OpenChatKit)\]
 
 - **LoRA: Low-Rank Adaptation of Large Language Models**, _Hu et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2106.09685)\]\[[code](https://github.com/microsoft/LoRA)\]\[[LoRA From Scratch](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch)\]
@@ -470,6 +470,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - MRL: **Matryoshka Representation Learning**, _Kusupati et al._, arxiv 2022. \[[paper](https://arxiv.org/abs/2205.13147)\]\[[code](https://github.com/RAIVNLab/MRL)\]
 - BGE: **C-Pack: Packaged Resources To Advance General Chinese Embedding**, _Xiao et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.07597)\]\[[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/baai_general_embedding)\]\[[FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)\]
 - LLM-Embedder: **Retrieve Anything To Augment Large Language Models**, _Zhang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.07554)\]\[[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/llm_embedder)\]\[[FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)\]
+- **BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation**, _Chen et al._, arxiv 2024. \[[paper](https://export.arxiv.org/abs/2402.03216)\]\[[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/BGE_M3)\]\[[FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)\]
 - \[[m3e-base](https://huggingface.co/moka-ai/m3e-base)\]
 - **Jina Embeddings 2: 8192-Token General-Purpose Text Embeddings for Long Documents**, _Günther et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.19923)\]\[[model](https://huggingface.co/jinaai/jina-embeddings-v2-base-en)\]
 - GTE: **Towards General Text Embeddings with Multi-stage Contrastive Learning**, _Li et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.03281)\]\[[model](https://huggingface.co/thenlper/gte-large-zh)\]
@@ -604,14 +605,21 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ### 7. Object Detection
 
+- DETR: **End-to-End Object Detection with Transformers**, _Carion et al._, arxiv 2020. \[[paper](https://arxiv.org/abs/2005.12872)\]\[[code](https://github.com/facebookresearch/detr)\]
+- Focus-DERT: **Less is More_Focus Attention for Efficient DETR**, _Zheng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2307.12612)\]\[[code](https://github.com/huawei-noah/noah-research)\]
+- **U2-Net_Going Deeper with Nested U-Structure for Salient Object Detection**, _Qin et al._, arxiv 2020. \[[paper](https://arxiv.org/abs/2005.09007)\]\[[code](https://github.com/xuebinqin/U-2-Net)\]
+- YOLO: **You Only Look Once: Unified, Real-Time Object Detection** _Redmon et al._, arxiv 2015. \[[paper](https://arxiv.org/abs/1506.02640)\]
 - **YOLOX: Exceeding YOLO Series in 2021**, _Ge et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2107.08430)\]\[[code](https://github.com/Megvii-BaseDetection/YOLOX)\]
+- **Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism**, _Wang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.11331)\]\[[code](https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO)\]
 - **YOLO-World: Real-Time Open-Vocabulary Object Detection**, _Cheng et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.17270)\]\[[code](https://github.com/ailab-cvc/yolo-world)\]
-- \[[detectron2](https://github.com/facebookresearch/detectron2)\]\[[yolov5](https://github.com/ultralytics/yolov5)\]
+
+- \[[detectron2](https://github.com/facebookresearch/detectron2)\]\[[yolov5](https://github.com/ultralytics/yolov5)\]\[[mmdetection](https://github.com/open-mmlab/mmdetection)\]\[[detrex](https://github.com/IDEA-Research/detrex)\]
 
 ### 8. Semantic Segmentation
 
 - **U-Net: Convolutional Networks for Biomedical Image Segmentation**, _Ronneberger et al._, MICCAI 2015. \[[paper](https://arxiv.org/abs/1505.04597)\]\[[code](https://github.com/milesial/Pytorch-UNet)\]
 - **Segment Anything**, _Kirillov et al._, ICCV 2023. \[[paper](https://arxiv.org/abs/2304.02643)\]\[[code](https://github.com/facebookresearch/segment-anything)\]
+- **Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**, _Ren et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.14159)\]\[[code](https://github.com/IDEA-Research/Grounded-Segment-Anything)\]
 
 ### 9. Video
 
@@ -762,7 +770,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**, _Zhang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.04145)\]\[[code](https://github.com/ali-vilab/i2vgen-xl)\]
 - TF-T2V: **A Recipe for Scaling up Text-to-Video Generation with Text-free Videos**, _Wang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.15770)\]\[[code](https://github.com/ali-vilab/i2vgen-xl)\]
 - **Lumiere: A Space-Time Diffusion Model for Video Generation**, _Bar-Tal et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.12945)\]\[[lumiere-pytorch](https://github.com/lucidrains/lumiere-pytorch)\]
-- **Sora: Creating video from text**, _OpenAI_, 2024. \[[blog](https://openai.com/sora)\]\[[minisora](https://github.com/mini-sora/minisora)\]
+- **Sora: Creating video from text**, _OpenAI_, 2024. \[[blog](https://openai.com/sora)\]\[[minisora](https://github.com/mini-sora/minisora)\]\[[SoraWebui](https://github.com/SoraWebui/SoraWebui)\]
 - **VideoPoet: A Large Language Model for Zero-Shot Video Generation**, _Kondratyuk et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.14125)\]
 - **Latte: Latent Diffusion Transformer for Video Generation**, _Ma et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03048)\]\[[code](https://github.com/Vchitect/Latte)\]
 
