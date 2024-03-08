@@ -247,6 +247,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Scientific Large Language Models: A Survey on Biological & Chemical Domains**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.14656)\]\[[code](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)\]
 - **SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.07950)\]\[[code](https://github.com/THUDM/SciGLM)\]
 - **ChemLLM: A Chemical Large Language Model**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.06852)\]\[[model](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat)\]
+- \[[Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]
 
 ##### 3.2.3 Code
 
@@ -303,6 +304,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **ChatLaw: Open-Source Legal Large Language Model with Integrated External Knowledge Bases**, _Cui et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2306.16092)\]\[[code](https://github.com/PKU-YuanGroup/ChatLaw)\]
 - Med-PaLM: **Large language models encode clinical knowledge**, _Singhal et al._, Nature 2023. \[[paper](https://www.nature.com/articles/s41586-023-06291-2)\]\[[Unofficial Implementation](https://github.com/kyegomez/Med-PaLM)\]
 - AMIE: **Towards Conversational Diagnostic AI**, _Tu et al._, arxiv 2024.  \[[paper](https://arxiv.org/abs/2401.05654)\]\[[AMIE-pytorch](https://github.com/lucidrains/AMIE-pytorch)\]
+- **Apollo: Lightweight Multilingual Medical LLMs towards Democratizing Medical AI to 6B People**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.03640)\]\[[code](https://github.com/FreedomIntelligence/Apollo)\]\[[Medical_NLP](https://github.com/FreedomIntelligence/Medical_NLP)\]
 
 ##### 3.2.8 Recommend System
 
@@ -394,6 +396,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**, _Huang et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2305.08322)\]\[[code](https://github.com/hkust-nlp/ceval)\]
 - **CMMLU: Measuring massive multitask language understanding in Chinese**, _Li et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2306.09212)\]\[[code](https://github.com/haonan-li/CMMLU)\]
 - **CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.11944)\]\[[code](https://github.com/CMMMU-Benchmark/CMMMU)\]
+- **Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference**, _Chiang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.04132)\]\[[demo](https://chat.lmsys.org/)\]
 - \[[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)\]
 - \[[AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)\]\[[alpaca_eval](https://github.com/tatsu-lab/alpaca_eval)\]
 - \[[Chatbot-Arena-Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)\]\[[blog](https://lmsys.org/blog/2023-05-03-arena/)\]\[[FastChat](https://github.com/lm-sys/FastChat)\]
@@ -457,6 +460,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **QLoRA: Efficient Finetuning of Quantized LLMs**, _Dettmers et al._, NeurIPS 2023 Oral. \[[paper](https://arxiv.org/abs/2305.14314)\]\[[code](https://github.com/artidoro/qlora)\]\[[bitsandbytes](https://github.com/TimDettmers/bitsandbytes)\]\[[unsloth](https://github.com/unslothai/unsloth)\]
 - **LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.12307)\]\[[code](https://github.com/dvlab-research/LongLoRA)\]
 - **S-LoRA: Serving Thousands of Concurrent LoRA Adapters**, _Sheng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.03285)\]\[[code](https://github.com/S-LoRA/S-LoRA)\]
+- **GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection**, _Zhao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.03507)\]\[[code](https://github.com/jiaweizzhao/galore)\]
 - **Prefix-Tuning: Optimizing Continuous Prompts for Generation**, _Li et al._, ACL 2021. \[[paper](https://arxiv.org/abs/2101.00190)\]\[[code](https://github.com/XiangLi1999/PrefixTuning)\]
 - Adapter: **Parameter-Efficient Transfer Learning for NLP**, _Houlsby et al._, ICML 2019. \[[paper](https://arxiv.org/abs/1902.00751)\]\[[code](https://github.com/google-research/adapter-bert)\]
 - **Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning**, _Poth et al._, EMNLP 2023. \[[paper](https://arxiv.org/abs/2311.11077)\]\[[code](https://github.com/adapter-hub/adapters)\]
@@ -548,6 +552,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**, _Aksitov et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.10003)\]\[[code]\]
 - **Orca 2: Teaching Small Language Models How to Reason**, _Mitra et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.11045)\]\[[code]\]
 - Searchformer: **Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping**, _Lehnert et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.14083)\]
+- **How Far Are We from Intelligent Visual Deductive Reasoning?**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.04732)\]\[[code](https://github.com/apple/ml-rpm-bench)\]
 
 ###### Survey
 
@@ -564,6 +569,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - S2A: **System 2 Attention (is something you might need too)**, _Weston et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.11829)\]
 - **Scalable Pre-training of Large Autoregressive Image Models**, _El-Nouby et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.08541)\]\[[code](https://github.com/apple/ml-aim)\]
 - **When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method**, _Zhang et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2402.17193)\]
+- **Language Modeling Is Compression**, _Delétang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.10668)\]
 - **Language Models Represent Space and Time**, _Gurnee et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.02207)\]\[[code](https://github.com/wesg52/world-models)\]
 
 - ROME: **Locating and Editing Factual Associations in GPT**, _Meng et al._, NeurIPS 2022. \[[paper](https://arxiv.org/abs/2202.05262)\]\[[code](https://github.com/kmeng01/rome)\]\[[FastEdit](https://github.com/hiyouga/FastEdit)\]
@@ -577,11 +583,12 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **GLM-130B: An Open Bilingual Pre-trained Model**, _Zeng et al._, ICLR 2023. \[[paper](https://arxiv.org/abs/2210.02414v2)\]\[[code](https://github.com/THUDM/GLM-130B/)\]
 - **Baichuan 2: Open Large-scale Language Models**, _Yang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.10305)\]\[[code](https://github.com/baichuan-inc/Baichuan2)\]
 - **Qwen Technical Report**, _Bai et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.16609)\]\[[code](https://github.com/QwenLM/Qwen)\]\[[Qwen1.5](https://github.com/QwenLM/Qwen1.5)\]
+- **Yi: Open Foundation Models by 01.AI**, _Young et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.04652)\]\[[code](https://github.com/01-ai/Yi)\]
 - **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**, _Bi et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.02954)\]\[[DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM)\]\[[DeepSeek-Coder)](https://github.com/deepseek-ai/DeepSeek-Coder)\]
 - **Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca**, Cui et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.08177)\]\[[code](https://github.com/ymcui/Chinese-LLaMA-Alpaca)\]\[[Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)\]\[[baby-llama2-chinese](https://github.com/DLLXW/baby-llama2-chinese)\]
 - **TeleChat Technical Report**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03804)\]\[[code](https://github.com/Tele-AI/Telechat)\]
 - **Rethinking Optimization and Architecture for Tiny Language Models**, _Tang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02791)\]\[[code](https://github.com/YuchuanTian/RethinkTinyLM)\]
-- \[[Yi](https://github.com/01-ai/Yi)\]\[[InternLM](https://github.com/InternLM/InternLM)\]\[[MiniCPM](https://github.com/OpenBMB/MiniCPM)\]\[[Orion](https://github.com/OrionStarAI/Orion)\]
+- \[[InternLM](https://github.com/InternLM/InternLM)\]\[[MiniCPM](https://github.com/OpenBMB/MiniCPM)\]\[[Orion](https://github.com/OrionStarAI/Orion)\]
 - \[[MOSS](https://github.com/OpenLMLab/MOSS)\]\[[MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)\]
 - \[[BELLE](https://github.com/LianjiaTech/BELLE)\]\[[Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)\]
 - \[[LlamaFamily/Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese)\]\[[LinkSoul-AI/Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b)\]
@@ -819,6 +826,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.16465)\]\[[code](https://github.com/microsoft/unilm/tree/master/textdiffuser-2)\]
 - **PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.00426)\]\[[code](https://github.com/PixArt-alpha/PixArt-alpha)\]
 - **PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**, _Chen et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.05252)\]\[[code](https://github.com/PixArt-alpha/PixArt-alpha)\]
+- **PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**, _Chen et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.04692)\]\[[code](https://github.com/PixArt-alpha/PixArt-sigma)\]
 - **IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models**, _Ye et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.06721)\]\[[code](https://github.com/tencent-ailab/IP-Adapter)\]
 
 ### 7. Text2Video
