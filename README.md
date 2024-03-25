@@ -169,7 +169,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **XLNet: Generalized Autoregressive Pretraining for Language Understanding**, _Yang et al._, NeurIPS 2019. \[[paper](https://arxiv.org/abs/1906.08237)\]\[[code](https://github.com/zihangdai/xlnet)\]
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**, _Wu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2303.04671)\]\[[code](https://github.com/moymix/TaskMatrix)\]
 - **WebGPT: Browser-assisted question-answering with human feedback**, _Nakano et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2112.09332)\]
-- **Open Release of Grok-1**, _xAI_, 2024. \[[blog](https://x.ai/blog/grok-os)\]\[[code](https://github.com/xai-org/grok-1)\]\[[model](https://huggingface.co/xai-org/grok-1)\]\[[modelscope](https://modelscope.cn/models/AI-ModelScope/grok-1/summary)\]
+- **Open Release of Grok-1**, _xAI_, 2024. \[[blog](https://x.ai/blog/grok-os)\]\[[code](https://github.com/xai-org/grok-1)\]\[[model](https://huggingface.co/xai-org/grok-1)\]\[[modelscope](https://modelscope.cn/models/AI-ModelScope/grok-1/summary)\]\[[hpcai-tech/grok-1](https://huggingface.co/hpcai-tech/grok-1)\]
 
 #### 3.2 LLM Application
 
@@ -204,6 +204,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **A Survey on Large Language Model based Autonomous Agents**, _Wang et al._, \[[paper](https://arxiv.org/abs/2308.11432)\]\[[code](https://github.com/Paitesanshi/LLM-Agent-Survey)\]
 - **The Rise and Potential of Large Language Model Based Agents: A Survey**, _Xi et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.07864)\]\[[code](https://github.com/WooooDyy/LLM-Agent-Paper-List)\]
 - **Agent AI: Surveying the Horizons of Multimodal Interaction**, _Durante et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03568)\]
+- **Position Paper: Agent AI Towards a Holistic Intelligence**, _Huang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.00833)\]
 
 - **AgentBench: Evaluating LLMs as Agents**, _Liu et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2308.03688)\]\[[code](https://github.com/THUDM/AgentBench)\]
 - **Agents: An Open-source Framework for Autonomous Language Agents**, _Zhou et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.07870)\]\[[code](https://github.com/aiwaves-cn/agents)\]
@@ -272,7 +273,8 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence**, _Guo et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.14196)\]\[[code](https://github.com/deepseek-ai/DeepSeek-Coder)\]
 - **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents**, _Yang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.00812)\]
 - **Design2Code: How Far Are We From Automating Front-End Engineering?**, _Si et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.03163)\]\[[code](https://github.com/NoviScl/Design2Code)\]
-- \[[OpenDevin](https://github.com/OpenDevin/OpenDevin)\]\[[swe-bench-technical-report](https://www.cognition-labs.com/post/swe-bench-technical-report)\]
+
+- \[[OpenDevin](https://github.com/OpenDevin/OpenDevin)\]\[[swe-bench-technical-report](https://www.cognition-labs.com/post/swe-bench-technical-report)\]\[[devika](https://github.com/stitionai/devika)\]
 
 ##### 3.2.4 Financial Application
 
@@ -282,6 +284,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **FinGPT: Instruction Tuning Benchmark for Open-Source Large Language Models in Financial Datasets**, _Wang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.04793)\]\[[code](https://github.com/AI4Finance-Foundation/FinGPT)\]
 - **FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance**, _Liu et al._, arxiv 2020. \[[paper](https://arxiv.org/abs/2011.09607)\]\[[code](https://github.com/AI4Finance-Foundation/FinRL)\]
 - **DISC-FinLLM: A Chinese Financial Large Language Model based on Multiple Experts Fine-tuning**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.15205)\]\[[code](https://github.com/FudanDISC/DISC-FinLLM)\]
+- **A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.18485)\]
 - **XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters**, _Zhang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2305.12002)\]\[[code](https://github.com/Duxiaoman-DI/XuanYuan)\]
 - **Large Language Model for Table Processing: A Survey**, _Lu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.05121)\]\[[llm-table-survey](https://github.com/godaai/llm-table-survey)\]
 - **Data Interpreter: An LLM Agent For Data Science**, _Hong et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.18679)\]\[[code](https://github.com/geekan/MetaGPT/tree/main/examples/di)\]
@@ -324,6 +327,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Agent4Rec_On Generative Agents in Recommendation**, _Zhang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.10108)\]\[[code](https://github.com/LehengTHU/Agent4Rec)\]
 - LLM-KERec: **Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph**, _Zhao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.13750)\]
 - **Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations**, _Zhai et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.17152)\]
+- **Wukong: Towards a Scaling Law for Large-Scale Recommendation**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.02545)\]
 - \[[recommenders](https://github.com/recommenders-team/recommenders)\]\[[Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm)\]
 
 ##### 3.2.9 Tool Learning
@@ -505,6 +509,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **8-bit Optimizers via Block-wise Quantization** _Dettmers et al._, ICLR 2022. \[[paper](https://arxiv.org/abs/2110.02861)\]\[[code](https://github.com/timdettmers/bitsandbytes)\]
 - **FP8-LM: Training FP8 Large Language Models** _Peng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.18313)\]\[[code](https://github.com/Azure/MS-AMP)\]
 - **Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**, _Han et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.14608)\]
+- **Evolutionary Optimization of Model Merging Recipes**, _Akiba et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.13187)\]\[[code](https://github.com/SakanaAI/evolutionary-model-merge)\]
 
 ##### 3.3.9 Prompt Learning
 
@@ -515,7 +520,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4**, _Bsharat et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.16171)\]\[[code](https://github.com/VILA-Lab/ATLAS)\]
 - **Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding**, _Suzgun and Kalai_, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.12954)\]\[[code](https://github.com/suzgunmirac/meta-prompting)\]
 - AutoPrompt: **Intent-based Prompt Calibration: Enhancing prompt optimization with synthetic boundary cases**, _Levi et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.03099)\]\[[code](https://github.com/Eladlev/AutoPrompt)\]
-- \[[PromptPapers](https://github.com/thunlp/PromptPapers)\]
+- \[[PromptPapers](https://github.com/thunlp/PromptPapers)\]\[[ChatGPT Prompt Engineering for Developers](https://prompt-engineering.xiniushu.com/)\]\[[Prompt Engineering Guide](https://www.promptingguide.ai/zh)\]\[[k12promptguide](https://www.k12promptguide.com/)\]
 
 - **The Power of Scale for Parameter-Efficient Prompt Tuning**, _Lester et al._, EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08691)\]\[[code](https://github.com/google-research/prompt-tuning)\]\[[soft-prompt-tuning](https://github.com/kipgparker/soft-prompt-tuning)\]\[[Prompt-Tuning](https://github.com/mkshing/Prompt-Tuning)\]
 - **A Survey on In-context Learning**, _Dong et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2301.00234)\]
@@ -552,7 +557,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)\]
 - \[[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)\]
 - **Browse the web with GPT-4V and Vimium** \[[vimGPT](https://github.com/ishan0102/vimGPT)\]
-- \[[trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows)\]\[[history_rag](https://github.com/wxywb/history_rag)\]\[[gpt-crawler](https://github.com/BuilderIO/gpt-crawler)\]\[[R2R](https://github.com/SciPhi-AI/R2R)\]
+- \[[trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows)\]\[[history_rag](https://github.com/wxywb/history_rag)\]\[[gpt-crawler](https://github.com/BuilderIO/gpt-crawler)\]\[[R2R](https://github.com/SciPhi-AI/R2R)\]\[[rag-notebook-to-microservices](https://github.com/wenqiglantz/rag-notebook-to-microservices)\]
 
 ###### Text Embedding
 
@@ -869,6 +874,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **DeepSeek-VL: Towards Real-World Vision-Language Understanding**, _Lu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.05525)\]\[[code](https://github.com/deepseek-ai/DeepSeek-VL)\]
 - **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.12793)\]\[[code](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)\]
 - **TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones**, _Yuan et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.16862)\]\[[code](https://github.com/DLYuanGod/TinyGPT-V)\]
+- **Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models**, _Li et al._, CVPR 2024. \[[https://arxiv.org/abs/2311.06607]\]\[[code](https://github.com/Yuliang-Liu/Monkey)\]
 - **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**, _Wei et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.06109)\]\[[code](https://github.com/Ucas-HaoranWei/Vary)\]
 - Vary-toy: **Small Language Model Meets with Reinforced Vision Vocabulary**, _Wei et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.12503)\]\[[code](https://github.com/Ucas-HaoranWei/Vary-toy)\]
 - LWM: **World Model on Million-Length Video And Language With RingAttention**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.08268)\]\[[code](https://github.com/LargeWorldModel/LWM)\]
@@ -990,7 +996,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 - **Attention is All you Need**, _Vaswani et al._, NIPS 2017. \[[paper](https://arxiv.org/abs/1706.03762)\]\[[code](https://github.com/jadore801120/attention-is-all-you-need-pytorch)\]\[[transformer-debugger](https://github.com/openai/transformer-debugger)\]\[[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)\]\[[The Random Transformer](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)\]\[[The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)\]\[[Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)\]\[[x-transformers](https://github.com/lucidrains/x-transformers)\]
 - RoPE: **RoFormer: Enhanced Transformer with Rotary Position Embedding**, _Su et al._, arxiv 2021. \[[paper](https://arxiv.org/abs/2104.09864)\]\[[code](https://github.com/ZhuiyiTechnology/roformer)\]\[[rotary-embedding-torch](https://github.com/lucidrains/rotary-embedding-torch)\]\[[blog](https://kexue.fm/archives/9675)\]
-- **RWKV: Reinventing RNNs for the Transformer Era**, _Peng et al._, EMNLP 2023. \[[paper](https://arxiv.org/abs/2305.13048)\]\[[code](https://github.com/BlinkDL/RWKV-LM)\]
+- **RWKV: Reinventing RNNs for the Transformer Era**, _Peng et al._, EMNLP 2023. \[[paper](https://arxiv.org/abs/2305.13048)\]\[[code](https://github.com/BlinkDL/RWKV-LM)\]\[[ChatRWKV](https://github.com/BlinkDL/ChatRWKV)\]
 - **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, _Gu and Dao_, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.00752)\]\[[code](https://github.com/state-spaces/mamba)\]\[[mamba-minimal](https://github.com/johnma2006/mamba-minimal)\]\[[Awesome-Mamba-Papers](https://github.com/yyyujintang/Awesome-Mamba-Papers)\]
 - **Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**, _De et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.19427)\]
 
