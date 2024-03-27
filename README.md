@@ -183,6 +183,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **MemGPT: Towards LLMs as Operating Systems**, _Packer et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.08560)\]\[[code](https://github.com/cpacker/MemGPT)\]
 - **UFO: A UI-Focused Agent for Windows OS Interaction**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.07939)\]\[[code](https://github.com/microsoft/UFO)\]
 - **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement**, _Wu et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2402.07456)\]\[[code](https://github.com/OS-Copilot/FRIDAY)\]
+- **LLM Agent Operating System**, _Mei et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.16971)\]\[[code](https://github.com/agiresearch/AIOS)\]
 - **DB-GPT: Empowering Database Interactions with Private Large Language Models**, _Xue et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.17449)\]\[[code](https://github.com/eosphoros-ai/DB-GPT)\]\[[DocsGPT](https://github.com/arc53/DocsGPT)\]\[[privateGPT](https://github.com/imartinez/privateGPT)\]
 - **OpenChat: Advancing Open-source Language Models with Mixed-Quality Data**, _Wang et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2309.11235)\]\[[code](https://github.com/imoneoi/openchat)\]
 - **OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement**, _Zheng et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.14658)\]\[[code](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter)\]
@@ -216,9 +217,9 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation**, _Wu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2308.08155)\]\[[code](https://github.com/microsoft/autogen)\]
 - **CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society**, _Li et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2303.17760)\]\[[code](https://github.com/camel-ai/camel)\]
 - ChatDev: **Communicative Agents for Software Development**, _Qian et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2307.07924)\]\[[code](https://github.com/OpenBMB/ChatDev)\]\[[gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)\]
+- **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework**, _Hong et al._, ICLR 2024 Oral. \[[paper](https://arxiv.org/abs/2308.00352)\]\[[code](https://github.com/geekan/MetaGPT)\]
 - **RepoAgent: An LLM-Powered Open-Source Framework for Repository-level Code Documentation Generation**, _Luo et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.16667)\]\[[code](https://github.com/OpenBMB/RepoAgent)\]
 - **Generative Agents: Interactive Simulacra of Human Behavior**, _Park et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.03442)\]\[[code](https://github.com/joonspk-research/generative_agents)\]\[[GPTeam](https://github.com/101dotxyz/GPTeam)\]
-- **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework**, _Hong et al._, ICLR 2024 Oral. \[[paper](https://arxiv.org/abs/2308.00352)\]\[[code](https://github.com/geekan/MetaGPT)\]
 - **CogAgent: A Visual Language Model for GUI Agents**, _Hong et al._, CVPR 2024. \[[paper](https://arxiv.org/abs/2312.08914)\]\[[code](https://github.com/THUDM/CogVLM)\]
 - **OpenAgents: An Open Platform for Language Agents in the Wild**, _Xie et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.10634)\]\[[code](https://github.com/xlang-ai/OpenAgents)\]
 - **Reflexion: Language Agents with Verbal Reinforcement Learning**, _Shinn et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2303.11366)\]\[[code](https://github.com/noahshinn/reflexion)\]
@@ -288,6 +289,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters**, _Zhang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2305.12002)\]\[[code](https://github.com/Duxiaoman-DI/XuanYuan)\]
 - **Large Language Model for Table Processing: A Survey**, _Lu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.05121)\]\[[llm-table-survey](https://github.com/godaai/llm-table-survey)\]
 - **Data Interpreter: An LLM Agent For Data Science**, _Hong et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.18679)\]\[[code](https://github.com/geekan/MetaGPT/tree/main/examples/di)\]
+- \[[gpt-investor](https://github.com/mshumer/gpt-investor)\]
 
 ##### 3.2.5 Information Retrieval
 
@@ -520,7 +522,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4**, _Bsharat et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.16171)\]\[[code](https://github.com/VILA-Lab/ATLAS)\]
 - **Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding**, _Suzgun and Kalai_, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.12954)\]\[[code](https://github.com/suzgunmirac/meta-prompting)\]
 - AutoPrompt: **Intent-based Prompt Calibration: Enhancing prompt optimization with synthetic boundary cases**, _Levi et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.03099)\]\[[code](https://github.com/Eladlev/AutoPrompt)\]
-- \[[PromptPapers](https://github.com/thunlp/PromptPapers)\]\[[ChatGPT Prompt Engineering for Developers](https://prompt-engineering.xiniushu.com/)\]\[[Prompt Engineering Guide](https://www.promptingguide.ai/zh)\]\[[k12promptguide](https://www.k12promptguide.com/)\]
+- \[[PromptPapers](https://github.com/thunlp/PromptPapers)\]\[[ChatGPT Prompt Engineering for Developers](https://prompt-engineering.xiniushu.com/)\]\[[Prompt Engineering Guide](https://www.promptingguide.ai/zh)\]\[[k12promptguide](https://www.k12promptguide.com/)\]\[[gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)\]
 
 - **The Power of Scale for Parameter-Efficient Prompt Tuning**, _Lester et al._, EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08691)\]\[[code](https://github.com/google-research/prompt-tuning)\]\[[soft-prompt-tuning](https://github.com/kipgparker/soft-prompt-tuning)\]\[[Prompt-Tuning](https://github.com/mkshing/Prompt-Tuning)\]
 - **A Survey on In-context Learning**, _Dong et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2301.00234)\]
@@ -555,7 +557,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[LangChain](https://github.com/langchain-ai/langchain)\]\[[blog](https://blog.langchain.dev/deconstructing-rag/)\]
 - \[[LlamaIndex](https://github.com/run-llama/llama_index)\]\[[A Cheat Sheet and Some Recipes For Building Advanced RAG](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)\]
 - \[[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)\]
-- \[[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)\]
+- \[[haystack](https://github.com/deepset-ai/haystack)\]\[[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)\]
 - **Browse the web with GPT-4V and Vimium** \[[vimGPT](https://github.com/ishan0102/vimGPT)\]
 - \[[trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows)\]\[[history_rag](https://github.com/wxywb/history_rag)\]\[[gpt-crawler](https://github.com/BuilderIO/gpt-crawler)\]\[[R2R](https://github.com/SciPhi-AI/R2R)\]\[[rag-notebook-to-microservices](https://github.com/wenqiglantz/rag-notebook-to-microservices)\]
 
@@ -853,14 +855,19 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)\]\[[Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion)\]
 - \[[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)\]\[[stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab)\]\[[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)\]\[[stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)\]
 - \[[Fooocus](https://github.com/lllyasviel/Fooocus)\]
-- \[[ComfyUI](https://github.com/comfyanonymous/ComfyUI)\]\[[streamlit](https://github.com/streamlit/streamlit)\]\[[gradio](https://github.com/gradio-app/gradio)\]
+- \[[ComfyUI](https://github.com/comfyanonymous/ComfyUI)\]\[[streamlit](https://github.com/streamlit/streamlit)\]\[[gradio](https://github.com/gradio-app/gradio)\]\[[ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)\]
 - \[[diffusers](https://github.com/huggingface/diffusers)\]
 
 ### 5. Multimodal LLM
 
 - LLaVA: **Visual Instruction Tuning**, _Liu et al._, NeurIPS 2023 Oral. \[[paper](https://arxiv.org/abs/2304.08485)\]\[[code](https://github.com/haotian-liu/LLaVA)\]
+- LLaVA-1.5: **Improved Baselines with Visual Instruction Tuning**, _Liu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.03744)\]\[[code](https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md)\]
+- **LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day**, _Li et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2306.00890)\]\[[code](https://github.com/microsoft/LLaVA-Med)\]
 - **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection**, _Lin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.10122)\]\[[code](https://github.com/PKU-YuanGroup/Video-LLaVA)\]
 - **MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**, _Lin et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.15947)\]\[[code](https://github.com/PKU-YuanGroup/MoE-LLaVA)\]
+- **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**, _Zhu et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2304.10592)\]\[[code](https://github.com/Vision-CAIR/MiniGPT-4)\]
+- **MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.09478)\]\[[code](https://github.com/Vision-CAIR/MiniGPT-4)\]
+- **MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**, _Zheng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.02239)\]\[[code](https://github.com/eric-ai-lab/MiniGPT-5)\]
 
 - **A Survey on Multimodal Large Language Models**, Yin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2306.13549)\]\[[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)\]
 - **Flamingo: a Visual Language Model for Few-Shot Learning**, _Alayrac et al._, NeurIPS 2022. \[[paper](https://arxiv.org/abs/2204.14198)\]\[[open-flamingo](https://github.com/mlfoundations/open_flamingo)\]\[[flamingo-pytorch](https://github.com/lucidrains/flamingo-pytorch)\]
@@ -927,6 +934,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **VideoPoet: A Large Language Model for Zero-Shot Video Generation**, _Kondratyuk et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.14125)\]
 - **Latte: Latent Diffusion Transformer for Video Generation**, _Ma et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03048)\]\[[code](https://github.com/Vchitect/Latte)\]
 - **Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis**, _Menapace et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.14797)\]
+- \[[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)\]
 
 ### 8. Survey for Multimodal
 
