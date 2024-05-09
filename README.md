@@ -81,8 +81,6 @@ This repository is used to collect papers and code in the field of AI. The conte
 ```
 
 ---
-<details>
-<summary>NLP</summary>
 
 ## NLP
 
@@ -724,10 +722,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[Firefly](https://github.com/yangjianxin1/Firefly)\]\[[GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat)\]
 - Alpaca-CoT: **An Empirical Study of Instruction-tuning Large Language Models in Chinese**, _Si et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.07328)\]\[[code](https://github.com/PhoebusSi/Alpaca-CoT)\]
 
-<details>
 ---
-<details>
-<summary>CV</summary>
 
 ## CV
 
@@ -843,10 +838,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy**, _Vishniakov et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.09215)\]\[[code](https://github.com/kirill-vish/Beyond-INet)\]
 - **Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey**, _Xin et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02242)\]\[[code](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning)\]
 
-<details>
 ---
-<details>
-<summary>Multimodal</summary>
 
 ## Multimodal
 
@@ -1047,10 +1039,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**, _Gao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.05935)\]\[[code](https://github.com/Alpha-VLLM/LLaMA2-Accessory)\]
 - LWM: **World Model on Million-Length Video And Language With RingAttention**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.08268)\]\[[code](https://github.com/LargeWorldModel/LWM)\]
 
-<details>
 ---
-<details>
-<summary>Reinforcement Learning</summary>
 
 ## Reinforcement Learning
 
@@ -1079,10 +1068,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions**, _Chebotar et al._, CoRL 2023. \[[paper](https://arxiv.org/abs/2309.10150)\]\[[Unofficial Implementation](https://github.com/lucidrains/q-transformer)\]
 - **Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods**, _Cao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2404.00282)\]
 
-<details>
 ---
-<details>
-<summary>GNN</summary>
 
 ## GNN
  
@@ -1103,10 +1089,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ### Survey for GNN
 
-<details>
 ---
-<details>
-<summary>Transformer Architecture</summary>
 
 ## Transformer Architecture
 
@@ -1121,4 +1104,4 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Neural Network Diffusion**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.13144)\]\[[code](https://github.com/NUS-HPC-AI-Lab/Neural-Network-Diffusion)\]\[[GPD](https://github.com/tsinghua-fib-lab/GPD)\]
 - **KAN: Kolmogorov-Arnold Networks**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2404.19756)\]\[[code](https://github.com/KindXiaoming/pykan)\]\[[efficient-kan](https://github.com/Blealtan/efficient-kan)\]\[[kan-gpt](https://github.com/AdityaNG/kan-gpt)\]
 
-<details>
+
