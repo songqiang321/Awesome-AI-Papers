@@ -201,7 +201,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 - \[[ray](https://github.com/ray-project/ray)\]\[[dask](https://github.com/dask/dask)\]\[[TaskingAI](https://github.com/TaskingAI/TaskingAI)\]\[[gpt4all](https://github.com/nomic-ai/gpt4all)\]\[[ollama](https://github.com/jmorganca/ollama)\]\[[llama.cpp](https://github.com/ggerganov/llama.cpp)\]\[[dify](https://github.com/langgenius/dify)\]\[[mindsdb](https://github.com/mindsdb/mindsdb)\]\[[bisheng](https://github.com/dataelement/bisheng)\]\[[phidata](https://github.com/phidatahq/phidata)\]\[[guidance](https://github.com/guidance-ai/guidance)\]\[[outlines](https://github.com/outlines-dev/outlines)\]\[[fabric](https://github.com/danielmiessler/fabric)\]
 - \[[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)\]\[[fastc](https://github.com/EveripediaNetwork/fastc)\]
-- \[[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)\]
+- \[[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)\]\[[Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales)\]\[[aiavatarkit](https://github.com/uezo/aiavatarkit)\]
 
 ##### 3.2.1 AI Agent
 
@@ -298,7 +298,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions**, _Zhuo et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.15877)\]\[[code](https://github.com/bigcode-project/bigcodebench)\]
 
 - \[[CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5)\]\[[aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)\]
-- \[[OpenDevin](https://github.com/OpenDevin/OpenDevin)\]\[[devika](https://github.com/stitionai/devika)\]\[[auto-code-rover](https://github.com/nus-apr/auto-code-rover)\]\[[developer](https://github.com/smol-ai/developer)\]\[[aider](https://github.com/paul-gauthier/aider)\]
+- \[[OpenDevin](https://github.com/OpenDevin/OpenDevin)\]\[[devika](https://github.com/stitionai/devika)\]\[[auto-code-rover](https://github.com/nus-apr/auto-code-rover)\]\[[developer](https://github.com/smol-ai/developer)\]\[[aider](https://github.com/paul-gauthier/aider)\]\[[claude-engineer](https://github.com/Doriandarko/claude-engineer)\]
 - \[[screenshot-to-code](https://github.com/abi/screenshot-to-code)\]\[[vanna](https://github.com/vanna-ai/vanna)\]
 
 ##### 3.2.4 Financial Application
@@ -399,7 +399,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems**, _Lian et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.06465)\]\[[code](https://github.com/microsoft/RecAI)\]
 - **Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application**, _Jia et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.03988)\]
 
-- \[[recommenders](https://github.com/recommenders-team/recommenders)\]\[[Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm)\]\[[Awesome-RSPapers](https://github.com/RUCAIBox/Awesome-RSPapers)\]\[[RecBole](https://github.com/RUCAIBox/RecBole)\]\[[RecSysDatasets](https://github.com/RUCAIBox/RecSysDatasets)\]
+- \[[recommenders](https://github.com/recommenders-team/recommenders)\]\[[Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm)\]\[[Awesome-RSPapers](https://github.com/RUCAIBox/Awesome-RSPapers)\]\[[RecBole](https://github.com/RUCAIBox/RecBole)\]\[[RecSysDatasets](https://github.com/RUCAIBox/RecSysDatasets)\]\[[LLM4Rec-Awesome-Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers)\]\[[Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys)\]
 
 ##### 3.2.9 Tool Learning
 
@@ -419,12 +419,14 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**, _Du et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.04253)\]\[[code](https://github.com/dyabel/AnyTool)\]
 - **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.04746)\]\[[code](https://github.com/microsoft/simulated-trial-and-error)\]
 - **What Are Tools Anyway? A Survey from the Language Model Perspective**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.15452)\]
+
 - \[[ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers)\]\[[awesome-tool-llm](https://github.com/zorazrw/awesome-tool-llm)\]
 
 #### 3.3 LLM Technique
 
 - **How to Train Really Large Models on Many GPUs**, _Lilian Weng_, 2021. \[[blog](https://lilianweng.github.io/posts/2021-09-25-train-large/)\]
 - **Training great LLMs entirely from ground zero in the wilderness as a startup**, _Yi Tay_, 2024. \[[blog](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)\]
+- \[[Awesome-LLM-System-Papers](https://github.com/AmadeusChan/Awesome-LLM-System-Papers)\]
 - **Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism**, _Shoeybi et al._, arxiv 2019. \[[paper](https://arxiv.org/abs/1909.08053)\]\[[code](https://github.com/NVIDIA/Megatron-LM)\]
 - **ZeRO: Memory Optimizations Toward Training Trillion Parameter Models**, _Rajbhandari et al._, arxiv 2019. \[[paper](https://arxiv.org/abs/1910.02054)\]\[[DeepSpeed](https://github.com/microsoft/DeepSpeed)\]
 - **Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training**, _Li et al._, ICPP 2023. \[[paper](https://arxiv.org/abs/2110.14883)\]\[[code](https://github.com/hpcaitech/ColossalAI)\]
@@ -531,7 +533,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ##### 3.3.4 Evaluation
 
-- \[[Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)\]\[[LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)\]
+- \[[Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)\]\[[LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)\]\[[llm_benchmarks](https://github.com/leobeeson/llm_benchmarks)\]
 - MMLU: **Measuring Massive Multitask Language Understanding**, _Hendrycks et al._, ICLR 2021.  \[[paper](https://arxiv.org/abs/2009.03300)\]\[[code](https://github.com/hendrycks/test)\]
 - HELM: **Holistic Evaluation of Language Models**, _Liang et al._, arxiv 2022. \[[paper](https://arxiv.org/abs/2211.09110)\]\[[code](https://github.com/stanford-crfm/helm)\]
 - **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**, _Zheng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2306.05685)\]\[[code](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)\]
@@ -587,11 +589,11 @@ This repository is used to collect papers and code in the field of AI. The conte
 - vllm: **Efficient Memory Management for Large Language Model Serving with PagedAttention**, _Kwon et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.06180)\]\[[code](https://github.com/vllm-project/vllm)\]
 - **Fast and Expressive LLM Inference with RadixAttention and SGLang**, _Zheng et al._, Stanford blog 2024. \[[blog](https://lmsys.org/blog/2024-01-17-sglang/)\]\[[code](https://github.com/sgl-project/sglang/)\]
 - **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**, _Cai et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2401.10774)\]\[[code](https://github.com/FasterDecoding/Medusa)\]
-- **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**, _Li et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2401.15077)\]\[[code](https://github.com/SafeAILab/EAGLE)\]
+- **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**, _Li et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2401.15077)\]\[[code](https://github.com/SafeAILab/EAGLE)\]\[[LLMSpeculativeSampling](https://github.com/feifeibear/LLMSpeculativeSampling)\]\[[Spec-Bench](https://github.com/hemingkx/Spec-Bench)\]
 - **APAR: LLMs Can Do Auto-Parallel Auto-Regressive Decoding**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.06761)\]\[[code]\]\[[Ouroboros](https://github.com/thunlp/Ouroboros)\]
 - **CLLMs: Consistency Large Language Models**, _Kou et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2403.00835)\]\[[code](https://github.com/hao-ai-lab/Consistency_LLM)\]\[[LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)\]
 - **MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**, _Jiang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.02490)\]\[[code](https://github.com/microsoft/MInference)\]
-- **DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving**, _Zhong et al._, OSDI 2024. \[[paper](https://arxiv.org/abs/2401.09670)\]\[[code](https://github.com/LLMServe/DistServe)\]
+- **DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving**, _Zhong et al._, OSDI 2024. \[[paper](https://arxiv.org/abs/2401.09670)\]\[[code](https://github.com/LLMServe/DistServe)\]\[[Orca OSDI 2022](https://www.usenix.org/system/files/osdi22-yu.pdf)\]
 - **Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving**, _Qin et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.00079)\]\[[code](https://github.com/kvcache-ai/Mooncake)\]
 
 - \[[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)\]\[[FasterTransformer](https://github.com/NVIDIA/FasterTransformer)\]\[[TritonServer](https://github.com/triton-inference-server/server)\]\[[GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples)\]\[[TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer)\]\[[TensorRT](https://github.com/NVIDIA/TensorRT)\]
@@ -613,9 +615,10 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Fast Inference of Mixture-of-Experts Language Models with Offloading**, _Eliseev and Mazur_, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.17238)\]\[[code](https://github.com/dvmazur/mixtral-offloading)\]
 - Mixtral-8×7B: **Mixtral of Experts**, _Jiang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2401.04088)\]\[[code](https://github.com/mistralai/mistral-inference)\]\[[megablocks-public](https://github.com/mistralai/megablocks-public)\]\[[model](https://huggingface.co/mistralai)\]\[[blog](https://mistral.ai/news/mixtral-of-experts/)\]\[[Chinese-Mixtral-8x7B](https://github.com/HIT-SCIR/Chinese-Mixtral-8x7B)\]\[[Chinese-Mixtral](https://github.com/ymcui/Chinese-Mixtral)\]
 - **DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models**, _Dai et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.06066)\]\[[code](https://github.com/deepseek-ai/DeepSeek-MoE)\]
-- **DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**, _DeepSeek-AI_, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.04434)\]\[[code](https://github.com/deepseek-ai/DeepSeek-V2)\]\[[Look-into-MoEs](https://github.com/kamanphoebe/Look-into-MoEs)\]
+- **DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**, _DeepSeek-AI_, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.04434)\]\[[code](https://github.com/deepseek-ai/DeepSeek-V2)\]
 - **Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.01906)\]
 - **Evolutionary Optimization of Model Merging Recipes**, _Akiba et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.13187)\]\[[code](https://github.com/SakanaAI/evolutionary-model-merge)\]
+- **A Closer Look into Mixture-of-Experts in Large Language Models**, _Lo et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.18219)\]\[[code](https://github.com/kamanphoebe/Look-into-MoEs)\]
 
 - \[[llama-moe](https://github.com/pjlab-sys4nlp/llama-moe)\]\[[Aurora](https://github.com/WangRongsheng/Aurora)\]\[[OpenMoE](https://github.com/XueFuzhao/OpenMoE)\]\[[makeMoE](https://github.com/AviSoori1x/makeMoE)\]\[[PEER-pytorch](https://github.com/lucidrains/PEER-pytorch)\]
 
@@ -627,10 +630,10 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[PEFT](https://github.com/huggingface/peft)\]\[[trl](https://github.com/huggingface/trl)\]\[[accelerate](https://github.com/huggingface/accelerate)\]\[[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)\]\[[LMFlow](https://github.com/OptimalScale/LMFlow)\]\[[xtuner](https://github.com/InternLM/xtuner)\]\[[MFTCoder](https://github.com/codefuse-ai/MFTCoder)\]\[[llm-foundry](https://github.com/mosaicml/llm-foundry)\]\[[swift](https://github.com/modelscope/swift)\]
 - \[[mergekit](https://github.com/arcee-ai/mergekit)\]\[[merge-models](https://huggingface.co/blog/mlabonne/merge-models)\]\[[Model Merging](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)\]\[[OpenChatKit](https://github.com/togethercomputer/OpenChatKit)\]
 
-- **LoRA: Low-Rank Adaptation of Large Language Models**, _Hu et al._, ICLR 2022. \[[paper](https://arxiv.org/abs/2106.09685)\]\[[code](https://github.com/microsoft/LoRA)\]\[[LoRA From Scratch](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch)\]\[[lora](https://github.com/cloneofsimo/lora)\]\[[dora](https://github.com/catid/dora)\]\[[MoRA](https://github.com/kongds/MoRA)\]
+- **LoRA: Low-Rank Adaptation of Large Language Models**, _Hu et al._, ICLR 2022. \[[paper](https://arxiv.org/abs/2106.09685)\]\[[code](https://github.com/microsoft/LoRA)\]\[[LoRA From Scratch](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch)\]\[[lora](https://github.com/cloneofsimo/lora)\]\[[dora](https://github.com/catid/dora)\]\[[MoRA](https://github.com/kongds/MoRA)\]\[[ziplora-pytorch](https://github.com/mkshing/ziplora-pytorch)\]\[[alpaca-lora](https://github.com/tloen/alpaca-lora)\]
 - **QLoRA: Efficient Finetuning of Quantized LLMs**, _Dettmers et al._, NeurIPS 2023 Oral. \[[paper](https://arxiv.org/abs/2305.14314)\]\[[code](https://github.com/artidoro/qlora)\]\[[bitsandbytes](https://github.com/TimDettmers/bitsandbytes)\]\[[unsloth](https://github.com/unslothai/unsloth)\]\[[ir-qlora](https://github.com/htqin/ir-qlora)\]
-- **S-LoRA: Serving Thousands of Concurrent LoRA Adapters**, _Sheng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.03285)\]\[[code](https://github.com/S-LoRA/S-LoRA)\]
-- **GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection**, _Zhao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.03507)\]\[[code](https://github.com/jiaweizzhao/galore)\]\[[Q-GaLore](https://github.com/VITA-Group/Q-GaLore)\]
+- **S-LoRA: Serving Thousands of Concurrent LoRA Adapters**, _Sheng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2311.03285)\]\[[code](https://github.com/S-LoRA/S-LoRA)\]\[[AdaLoRA](https://github.com/QingruZhang/AdaLoRA)\]\[[LoRAMoE](https://github.com/Ablustrund/LoRAMoE)\]\[[lorahub](https://github.com/sail-sg/lorahub)\]\[[O-LoRA](https://github.com/cmnfriend/O-LoRA)\]\[[qa-lora](https://github.com/yuhuixu1993/qa-lora)\]
+- **GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection**, _Zhao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.03507)\]\[[code](https://github.com/jiaweizzhao/galore)\]\[[Q-GaLore](https://github.com/VITA-Group/Q-GaLore)\]\[[WeLore](https://github.com/VITA-Group/WeLore)\]
 - **Prefix-Tuning: Optimizing Continuous Prompts for Generation**, _Li et al._, ACL 2021. \[[paper](https://arxiv.org/abs/2101.00190)\]\[[code](https://github.com/XiangLi1999/PrefixTuning)\]
 - Adapter: **Parameter-Efficient Transfer Learning for NLP**, _Houlsby et al._, ICML 2019. \[[paper](https://arxiv.org/abs/1902.00751)\]\[[code](https://github.com/google-research/adapter-bert)\]\[[unify-parameter-efficient-tuning](https://github.com/jxhe/unify-parameter-efficient-tuning)\]
 - **Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning**, _Poth et al._, EMNLP 2023. \[[paper](https://arxiv.org/abs/2311.11077)\]\[[code](https://github.com/adapter-hub/adapters)\]
@@ -644,8 +647,8 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **8-bit Optimizers via Block-wise Quantization** _Dettmers et al._, ICLR 2022. \[[paper](https://arxiv.org/abs/2110.02861)\]\[[code](https://github.com/timdettmers/bitsandbytes)\]
 - **FP8-LM: Training FP8 Large Language Models** _Peng et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.18313)\]\[[code](https://github.com/Azure/MS-AMP)\]
 - **Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**, _Han et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.14608)\]
-- **LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**, _Pan et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.17919)\]\[[code](https://github.com/OptimalScale/LMFlow)\]
-- **LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models**, _Zheng et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.13372)\]\[[code](https://github.com/hiyouga/LLaMA-Factory)\]
+- **LMFlow: An Extensible Toolkit for Finetuning and Inference of Large Foundation Models**, _Diao et al._, NAACL 2024. \[[paper](https://arxiv.org/abs/2306.12420)\]\[[code](https://github.com/OptimalScale/LMFlow)\]
+- **LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models**, _Zheng et al._, ACL 2024. \[[paper](https://arxiv.org/abs/2403.13372)\]\[[code](https://github.com/hiyouga/LLaMA-Factory)\]
 - **ReFT: Representation Finetuning for Language Models**, _Wu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2404.03592)\]\[[code](https://github.com/stanfordnlp/pyreft)\]
 
 ##### 3.3.9 Prompt Learning
@@ -712,7 +715,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - \[[QAnything](https://github.com/netease-youdao/QAnything)\]\[[ragflow](https://github.com/infiniflow/ragflow)\]\[[fastRAG](https://github.com/IntelLabs/fastRAG)\]\[[anything-llm](https://github.com/Mintplex-Labs/anything-llm)\]\[[FastGPT](https://github.com/labring/FastGPT)\]
 - \[[trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows)\]\[[history_rag](https://github.com/wxywb/history_rag)\]\[[gpt-crawler](https://github.com/BuilderIO/gpt-crawler)\]\[[R2R](https://github.com/SciPhi-AI/R2R)\]\[[rag-notebook-to-microservices](https://github.com/wenqiglantz/rag-notebook-to-microservices)\]\[[MaxKB](https://github.com/1Panel-dev/MaxKB)\]\[[Verba](https://github.com/weaviate/Verba)\]\[[cognita](https://github.com/truefoundry/cognita)\]
 - \[[RAG-Retrieval](https://github.com/NLPJCL/RAG-Retrieval)\]\[[FlashRank](https://github.com/PrithivirajDamodaran/FlashRank)\]\[[rank_bm25](https://github.com/dorianbrown/rank_bm25)\]\[[PGRAG](https://github.com/IAAR-Shanghai/PGRAG)\]\[[CRUD_RAG](https://github.com/IAAR-Shanghai/CRUD_RAG)\]\[[PlanRAG](https://github.com/myeon9h/PlanRAG)\]\[[DPA-RAG](https://github.com/dongguanting/DPA-RAG)\]
-- \[[PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)\]
+- \[[PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)\]\[[colpali](https://github.com/illuin-tech/colpali)\]
 
 ###### Text Embedding
 
@@ -994,6 +997,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**, _Xu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.08801)\]\[[code](https://github.com/fudan-generative-vision/hallo)\]\[[champ](https://github.com/fudan-generative-vision/champ)\]
 - **StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning**, _Zhang et al._, ACL 2024. \[[paper](https://arxiv.org/abs/2406.03049)\]\[[code](https://github.com/ictnlp/StreamSpeech)\]
 - **FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs**, _Tongyi Speech Team_, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.04051)\]\[[code](https://github.com/FunAudioLLM)\]
+- **Qwen2-Audio Technical Report**, _Chu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.10759)\]\[[code](https://github.com/QwenLM/Qwen2-Audio)\]\[[Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)\]
 
 - **Github Repositories**
 - \[[coqui-ai/TTS](https://github.com/coqui-ai/TTS)\]\[[suno-ai/bark](https://github.com/suno-ai/bark)\]\[[ChatTTS](https://github.com/2noise/ChatTTS)\]\[[WhisperSpeech](https://github.com/collabora/WhisperSpeech)\]\[[MeloTTS](https://github.com/myshell-ai/MeloTTS)\]\[[parler-tts](https://github.com/huggingface/parler-tts)\]\[[fish-speech](https://github.com/fishaudio/fish-speech)\]\[[MARS5-TTS](https://github.com/Camb-ai/MARS5-TTS)\]
@@ -1056,7 +1060,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - U-ViT: **All are Worth Words: A ViT Backbone for Diffusion Models**, _Bao et al._, CVPR 2023. \[[paper](https://arxiv.org/abs/2209.12152)\]\[[code](https://github.com/baofff/U-ViT)\]
 - **UniDiffuser: One Transformer Fits All Distributions in Multi-Modal Diffusion**, _Bao et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2303.06555)\]\[[code](https://github.com/thu-ml/unidiffuser)\]
 - l-DAE: **Deconstructing Denoising Diffusion Models for Self-Supervised Learning**, _Chen et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.14404)\]
-- DiT: **Scalable Diffusion Models with Transformers**, _Peebles et al._, ICCV 2023 Oral. \[[paper](https://arxiv.org/abs/2212.09748)\]\[[code](https://github.com/facebookresearch/DiT)\]\[[OpenDiT](https://github.com/NUS-HPC-AI-Lab/OpenDiT)\]\[[MDT](https://github.com/sail-sg/MDT)\]
+- DiT: **Scalable Diffusion Models with Transformers**, _Peebles et al._, ICCV 2023 Oral. \[[paper](https://arxiv.org/abs/2212.09748)\]\[[code](https://github.com/facebookresearch/DiT)\]\[[OpenDiT](https://github.com/NUS-HPC-AI-Lab/OpenDiT)\]\[[MDT](https://github.com/sail-sg/MDT)\]\[[PipeFusion](https://github.com/PipeFusion/PipeFusion)\]
 - **SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers**, _Ma et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.08740)\]\[[code](https://github.com/willisma/SiT)\]
 - **Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis**, _Ren et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2404.13686)\]\[[model](https://huggingface.co/ByteDance/Hyper-SD)\]
 - **Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**, _Yang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.04312)\]\[[code](https://github.com/THUDM/Inf-DiT)\]
@@ -1110,13 +1114,14 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts**, _Li et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.11273)\]\[[code](https://github.com/hitsz-tmg/umoe-scaling-unified-multimodal-llms)\]
 - RL4VLM: **Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**, _Zhai et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.10292)\]\[[code](https://github.com/RL4VLM/RL4VLM)\]\[[RLHF-V](https://github.com/RLHF-V/RLHF-V)\]\[[RLAIF-V](https://github.com/RLHF-V/RLAIF-V)\]
 - **OpenVLA: An Open-Source Vision-Language-Action Model**, _Kim et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.09246)\]\[[code](https://github.com/openvla/openvla)\]
-- **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**, _Fu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.21075)\]\[[code](https://github.com/BradyFU/Video-MME)\]\[[lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)\]\[[multimodal-needle-in-a-haystack](https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack)\]\[[MM-NIAH](https://github.com/OpenGVLab/MM-NIAH)\]\[[VideoNIAH](https://github.com/joez17/VideoNIAH)\]\[[ChartMimic](https://github.com/ChartMimic/ChartMimic)\]\[[WildVision](https://arxiv.org/abs/2406.11069)\]
+- **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**, _Fu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.21075)\]\[[code](https://github.com/BradyFU/Video-MME)\]\[[lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)\]\[[VLMEvalKit](https://github.com/open-compass/VLMEvalKit)\]\[[multimodal-needle-in-a-haystack](https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack)\]\[[MM-NIAH](https://github.com/OpenGVLab/MM-NIAH)\]\[[VideoNIAH](https://github.com/joez17/VideoNIAH)\]\[[ChartMimic](https://github.com/ChartMimic/ChartMimic)\]\[[WildVision](https://arxiv.org/abs/2406.11069)\]
 - **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**, _Tong et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.16860)\]\[[code](https://github.com/cambrian-mllm/cambrian)\]
 - **ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**, _Chern et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.06135)\]\[[code](https://github.com/GAIR-NLP/anole)\]
 - **PaliGemma: A versatile 3B VLM for transfer**, _Beyer et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.07726)\]\[[code](https://github.com/google-research/big_vision/tree/main/big_vision/configs/proj/paligemma)\]
 
 - \[[MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)\]\[[moondream](https://github.com/vikhyat/moondream)\]\[[MobileVLM](https://github.com/Meituan-AutoML/MobileVLM)\]\[[OmniFusion](https://github.com/AIRI-Institute/OmniFusion)\]\[[Bunny](https://github.com/BAAI-DCAI/Bunny)\]\[[MiCo](https://github.com/invictus717/MiCo)\]\[[Vitron](https://github.com/SkyworkAI/Vitron)\]
 - \[[datacomp](https://github.com/mlfoundations/datacomp)\]\[[MMDU](https://github.com/Liuziyu77/MMDU)\]\[[MINT-1T](https://github.com/mlfoundations/MINT-1T)\]
+- \[[mllm](https://github.com/UbiquitousLearning/mllm)\]
 
 ### 6. Text2Image
 
@@ -1258,7 +1263,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints**, _Ainslie et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2305.13245)\]\[[unofficial code](https://github.com/fkodom/grouped-query-attention-pytorch)\]
 - **RWKV: Reinventing RNNs for the Transformer Era**, _Peng et al._, EMNLP 2023. \[[paper](https://arxiv.org/abs/2305.13048)\]\[[code](https://github.com/BlinkDL/RWKV-LM)\]\[[ChatRWKV](https://github.com/BlinkDL/ChatRWKV)\]\[[rwkv.cpp](https://github.com/RWKV/rwkv.cpp)\]
 - **Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence**, _Peng et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2404.05892)\]\[[code](https://github.com/RWKV/RWKV-LM)\]
-- **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, _Gu and Dao_, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.00752)\]\[[code](https://github.com/state-spaces/mamba)\]\[[mamba-minimal](https://github.com/johnma2006/mamba-minimal)\]\[[Awesome-Mamba-Papers](https://github.com/yyyujintang/Awesome-Mamba-Papers)\]
+- **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, _Gu and Dao_, COLM 2024. \[[paper](https://arxiv.org/abs/2312.00752)\]\[[code](https://github.com/state-spaces/mamba)\]\[[mamba-minimal](https://github.com/johnma2006/mamba-minimal)\]\[[Awesome-Mamba-Papers](https://github.com/yyyujintang/Awesome-Mamba-Papers)\]
 - **Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**, _De et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.19427)\]\[[recurrentgemma](https://github.com/google-deepmind/recurrentgemma)\]
 - **Jamba: A Hybrid Transformer-Mamba Language Model**, _Lieber et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.19887)\]\[[model](https://huggingface.co/ai21labs/Jamba-v0.1)\]\[[Samba](https://github.com/microsoft/Samba)\]
 - **Neural Network Diffusion**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.13144)\]\[[code](https://github.com/NUS-HPC-AI-Lab/Neural-Network-Diffusion)\]\[[GPD](https://github.com/tsinghua-fib-lab/GPD)\]\[[tree-diffusion](https://github.com/revalo/tree-diffusion)\]
