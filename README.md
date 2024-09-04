@@ -239,6 +239,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **LEGENT: Open Platform for Embodied Agents**, _Cheng et al._, ACL 2024. \[[paper](https://arxiv.org/abs/2404.18243)\]\[[code](https://github.com/thunlp/LEGENT)\]
 
 - **Mind2Web: Towards a Generalist Agent for the Web**, _Deng et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2306.06070)\]\[[code](https://github.com/OSU-NLP-Group/Mind2Web)\]\[[AutoWebGLM](https://github.com/THUDM/AutoWebGLM)\]
+- **WebArena: A Realistic Web Environment for Building Autonomous Agents**, _Zhou et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2307.13854)\]\[[code](https://github.com/web-arena-x/webarena)\]\[[visualwebarena](https://github.com/web-arena-x/visualwebarena)\]
 - SeeAct: **GPT-4V(ision) is a Generalist Web Agent, if Grounded**, _Zheng et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.01614)\]\[[code](https://github.com/OSU-NLP-Group/SeeAct)\]
 - **Cradle: Empowering Foundation Agents Towards General Computer Control**, _Tan et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.03186)\]\[[code](https://github.com/BAAI-Agents/Cradle)\]
 - **AgentScope: A Flexible yet Robust Multi-Agent Platform**, _Gao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.14034)\]\[[code](https://github.com/modelscope/agentscope)\]\[[modelscope-agent](https://github.com/modelscope/modelscope-agent)\]
@@ -256,7 +257,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, _Wang et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2311.01455)\]\[[code](https://github.com/Genesis-Embodied-AI/RoboGen)\]
 - **RL-GPT: Integrating Reinforcement Learning and Code-as-policy**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.19299)\]
 - **Genie: Generative Interactive Environments**, _Bruce et al._, ICML 2024 Best Paper. \[[paper](https://arxiv.org/abs/2402.15391)\]\[[GameNGen](https://arxiv.org/abs/2408.14837)\]
-- **Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation**, _Fu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.02117)\]\[[code](https://github.com/MarkFzp/mobile-aloha)\]\[[Hardware Code](https://github.com/MarkFzp/mobile-aloha)\]\[[Learning Code](https://github.com/MarkFzp/act-plus-plus)\]\[[UMI](https://github.com/real-stanford/universal_manipulation_interface)\]\[[humanplus](https://github.com/MarkFzp/humanplus)\]\[[TeleVision](https://github.com/OpenTeleVision/TeleVision)\]\[[Surgical Robot Transformer](https://surgical-robot-transformer.github.io/)\]\[[lifelike-agility-and-play](https://github.com/Tencent-RoboticsX/lifelike-agility-and-play)\]
+- **Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation**, _Fu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.02117)\]\[[code](https://github.com/MarkFzp/mobile-aloha)\]\[[Hardware Code](https://github.com/MarkFzp/mobile-aloha)\]\[[Learning Code](https://github.com/MarkFzp/act-plus-plus)\]\[[UMI](https://github.com/real-stanford/universal_manipulation_interface)\]\[[humanplus](https://github.com/MarkFzp/humanplus)\]\[[TeleVision](https://github.com/OpenTeleVision/TeleVision)\]\[[Surgical Robot Transformer](https://surgical-robot-transformer.github.io/)\]\[[lifelike-agility-and-play](https://github.com/Tencent-RoboticsX/lifelike-agility-and-play)\]\[[ReKep](https://rekep-robot.github.io/)\]
 - **Octo: An Open-Source Generalist Robot Policy**, _Ghosh et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.12213)\]\[[code](https://github.com/octo-models/octo)\]\[[BodyTransformer](https://github.com/carlosferrazza/BodyTransformer)\]\[[crossformer](https://github.com/rail-berkeley/crossformer)\]
 - **GRUtopia: Dream General Robots in a City at Scale**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.10943)\]\[[code](https://github.com/OpenRobotLab/GRUtopia)\]
 
@@ -350,7 +351,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 ##### 3.2.5 Information Retrieval
 
 - **ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT**, _Khattab et al._, SIGIR 2020. \[[paper](https://arxiv.org/abs/2004.12832)\]\[[simbert](https://github.com/ZhuiyiTechnology/simbert)\]\[[roformer-sim](https://github.com/ZhuiyiTechnology/roformer-sim)\]
-- **ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction**, _Santhanam et al._, NAACL 2022. \[[paper](https://arxiv.org/abs/2112.01488)\]\[[code](https://github.com/stanford-futuredata/ColBERT)\]\[[RAGatouille](https://github.com/AnswerDotAI/RAGatouille)\]\[[A Reproducibility Study of PLAID](https://arxiv.org/abs/2404.14989)\]
+- **ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction**, _Santhanam et al._, NAACL 2022. \[[paper](https://arxiv.org/abs/2112.01488)\]\[[code](https://github.com/stanford-futuredata/ColBERT)\]\[[RAGatouille](https://github.com/AnswerDotAI/RAGatouille)\]\[[A Reproducibility Study of PLAID](https://arxiv.org/abs/2404.14989)\]\[[Jina-ColBERT-v2](https://arxiv.org/abs/2408.16672)\]
 - **ColBERT-XM: A Modular Multi-Vector Representation Model for Zero-Shot Multilingual Information Retrieval**, _Louis et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.15059)\]\[[code](https://github.com/ant-louis/xm-retrievers)\]\[[model](https://huggingface.co/antoinelouis/colbert-xm)\]
 - HyDE: **Precise Zero-Shot Dense Retrieval without Relevance Labels**, _Gao et al._, ACL 2023. \[[paper](https://arxiv.org/abs/2212.10496)\]\[[code](https://github.com/texttron/hyde)\]
 - **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[paper](https://arxiv.org/abs/2303.07678)\]\[[Query Expansion by Prompting Large Language Models](https://arxiv.org/abs/2305.03653)\]
@@ -423,13 +424,13 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **XRec: Large Language Models for Explainable Recommendation**, _Ma et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.02377)\]\[[code](https://github.com/HKUDS/XRec)\]\[[SelfGNN](https://github.com/HKUDS/SelfGNN)\]
 - **Agent4Rec_On Generative Agents in Recommendation**, _Zhang et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.10108)\]\[[code](https://github.com/LehengTHU/Agent4Rec)\]
 - LLM-KERec: **Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph**, _Zhao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.13750)\]
-- **Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations**, _Zhai et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.17152)\]\[[code](https://github.com/facebookresearch/generative-recommenders)\]
+- **Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations**, _Zhai et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.17152)\]\[[code](https://github.com/facebookresearch/generative-recommenders)\]\[[Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)\]
 - **Wukong: Towards a Scaling Law for Large-Scale Recommendation**, _Zhang et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2403.02545)\]\[[unofficial code](https://github.com/clabrugere/wukong-recommendation)\]
 - **RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems**, _Lian et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.06465)\]\[[code](https://github.com/microsoft/RecAI)\]
 - **Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application**, _Jia et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.03988)\]
 
 - \[[recommenders](https://github.com/recommenders-team/recommenders)\]\[[Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm)\]\[[Awesome-RSPapers](https://github.com/RUCAIBox/Awesome-RSPapers)\]\[[RecBole](https://github.com/RUCAIBox/RecBole)\]\[[RecSysDatasets](https://github.com/RUCAIBox/RecSysDatasets)\]\[[LLM4Rec-Awesome-Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers)\]\[[Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys)\]\[[Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers)\]\[[ReChorus](https://github.com/THUwangcy/ReChorus)\]
-- \[[fun-rec](https://github.com/datawhalechina/fun-rec)\]\[[RecommenderSystem](https://github.com/wangshusen/RecommenderSystem)\]\[[AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)\]
+- \[[fun-rec](https://github.com/datawhalechina/fun-rec)\]\[[RecommenderSystem](https://github.com/wangshusen/RecommenderSystem)\]\[[AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)\]\[[RecSysPapers](https://github.com/tangxyw/RecSysPapers)\]\[[Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry)\]\[[AlgoNotes](https://github.com/shenweichen/AlgoNotes)\]
 
 ##### 3.2.9 Tool Learning
 
@@ -585,7 +586,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **DataComp-LM: In search of the next generation of training sets for language models**, _Li et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.11794)\]\[[code](https://github.com/mlfoundations/dclm)\]\[[apple/DCLM-7B-8k](https://huggingface.co/apple/DCLM-7B-8k)\]
 - **Scaling Synthetic Data Creation with 1,000,000,000 Personas**, _Chan et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.20094)\]\[[code](https://github.com/tencent-ailab/persona-hub)\]
 
-- \[[RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data)\]\[[xland-minigrid-datasets](https://github.com/dunno-lab/xland-minigrid-datasets)\]\[[OmniCorpus](https://github.com/OpenGVLab/OmniCorpus)\]\[[dclm](https://github.com/mlfoundations/dclm)\]\[[Infinity-Instruct](https://github.com/FlagOpen/Infinity-Instruct)\]\[[MNBVC](https://github.com/esbatmop/MNBVC)\]
+- \[[RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data)\]\[[xland-minigrid-datasets](https://github.com/dunno-lab/xland-minigrid-datasets)\]\[[OmniCorpus](https://github.com/OpenGVLab/OmniCorpus)\]\[[dclm](https://github.com/mlfoundations/dclm)\]\[[Infinity-Instruct](https://github.com/FlagOpen/Infinity-Instruct)\]\[[MNBVC](https://github.com/esbatmop/MNBVC)\]\[[LMSYS-Chat-1M](https://arxiv.org/abs/2309.11998)\]
 - \[[llm-datasets](https://github.com/mlabonne/llm-datasets)\]\[[Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data)\]
 
 ##### 3.3.4 Evaluation
@@ -623,7 +624,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**, _Huang et al._, CVPR 2024 Highlight. \[[paper](https://arxiv.org/abs/2311.17911)\]\[[code](https://github.com/shikiw/OPERA)\]
 - **TrustLLM: Trustworthiness in Large Language Models**, _Sun et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.05561)\]\[[code](https://github.com/HowieHwong/TrustLLM)\]
 - SAFE: **Long-form factuality in large language models**, _Wei et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.18802)\]\[[code](https://github.com/google-deepmind/long-form-factuality)\]
-- **Detecting hallucinations in large language models using semantic entropy**, _Farquhar et al._, Nature 2024. \[[paper](https://www.nature.com/articles/s41586-024-07421-0)\]\[[semantic_uncertainty](https://github.com/jlko/semantic_uncertainty)\]\[[long_hallucinations](https://github.com/jlko/long_hallucinations)\]\[[Lynx-hallucination-detection](https://github.com/patronus-ai/Lynx-hallucination-detection)\]
+- **Detecting hallucinations in large language models using semantic entropy**, _Farquhar et al._, Nature 2024. \[[paper](https://www.nature.com/articles/s41586-024-07421-0)\]\[[semantic_uncertainty](https://github.com/jlko/semantic_uncertainty)\]\[[long_hallucinations](https://github.com/jlko/long_hallucinations)\]\[[Semantic Uncertainty ICLR 2023](https://arxiv.org/abs/2302.09664)\]\[[Lynx-hallucination-detection](https://github.com/patronus-ai/Lynx-hallucination-detection)\]
 
 ##### 3.3.6 Inference
 
@@ -658,6 +659,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - Sarathi-Serve: **Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve**, _Agrawal et al._, OSDI 2024. \[[paper](https://arxiv.org/abs/2403.02310)\]\[[code](https://github.com/microsoft/sarathi-serve)\]\[[Orca OSDI 2022](https://www.usenix.org/system/files/osdi22-yu.pdf)\]
 - **DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving**, _Zhong et al._, OSDI 2024. \[[paper](https://arxiv.org/abs/2401.09670)\]\[[code](https://github.com/LLMServe/DistServe)\]
 - **Prompt Cache: Modular Attention Reuse for Low-Latency Inference**, _Gim et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2311.04934)\]\[[code](https://github.com/yale-sys/prompt-cache)\]
+- **Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**, _Brandon et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.12981)\]\[[YOCO](https://github.com/microsoft/unilm/tree/master/YOCO)\]
 - **Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving**, _Qin et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.00079)\]\[[code](https://github.com/kvcache-ai/Mooncake)\]\[[ktransformers](https://github.com/kvcache-ai/ktransformers)\]
 
 - \[[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)\]\[[FasterTransformer](https://github.com/NVIDIA/FasterTransformer)\]\[[TritonServer](https://github.com/triton-inference-server/server)\]\[[GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples)\]\[[TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer)\]\[[TensorRT](https://github.com/NVIDIA/TensorRT)\]
@@ -685,6 +687,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **A Closer Look into Mixture-of-Experts in Large Language Models**, _Lo et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.18219)\]\[[code](https://github.com/kamanphoebe/Look-into-MoEs)\]
 - **A Survey on Mixture of Experts**, _Cai et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.06204)\]\[[code](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts)\]
 - **HMoE: Heterogeneous Mixture of Experts for Language Modeling**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2408.10681)\]
+- **OLMoE: Open Mixture-of-Experts Language Models**, _Muennighoff et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2409.02060)\]\[[code](https://github.com/allenai/OLMoE)\]
 
 - \[[llama-moe](https://github.com/pjlab-sys4nlp/llama-moe)\]\[[Aurora](https://github.com/WangRongsheng/Aurora)\]\[[OpenMoE](https://github.com/XueFuzhao/OpenMoE)\]\[[makeMoE](https://github.com/AviSoori1x/makeMoE)\]\[[PEER-pytorch](https://github.com/lucidrains/PEER-pytorch)\]
 
@@ -975,7 +978,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement**, _Boss et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2408.00653)\]\[[code](https://github.com/Stability-AI/stable-fast-3d)\]
 - **Sapiens: Foundation for Human Vision Models**, _Khirodkar et al._, ECCV 2024 Oral. \[[paper](https://arxiv.org/abs/2408.12569)\]\[[code](https://github.com/facebookresearch/sapiens)\]
 
-- \[[deepfakes/faceswap](https://github.com/deepfakes/faceswap)\]\[[DeepFaceLab](https://github.com/iperov/DeepFaceLab)\]\[[DeepFaceLive](https://github.com/iperov/DeepFaceLive)\]\[[deepface](https://github.com/serengil/deepface)\]\[[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)\]
+- \[[deepfakes/faceswap](https://github.com/deepfakes/faceswap)\]\[[DeepFaceLab](https://github.com/iperov/DeepFaceLab)\]\[[DeepFaceLive](https://github.com/iperov/DeepFaceLive)\]\[[deepface](https://github.com/serengil/deepface)\]\[[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)\]\[[DeepFakeDefenders](https://github.com/VisionRush/DeepFakeDefenders)\]
 - \[[IOPaint](https://github.com/Sanster/IOPaint)\]\[[SPADE](https://github.com/NVlabs/SPADE)\]\[[EasyOCR](https://github.com/JaidedAI/EasyOCR)\]\[[llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr)\]\[[PowerPaint](https://github.com/open-mmlab/PowerPaint)\]
 - \[[MuseV](https://github.com/TMElyralab/MuseV)\]\[[ToonCrafter](https://github.com/ToonCrafter/ToonCrafter)\]
 - \[[supervision](https://github.com/roboflow/supervision)\]
@@ -1099,6 +1102,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Qwen2-Audio Technical Report**, _Chu et al._, arxiv 2024. \[[blog](https://qwenlm.github.io/blog/qwen2-audio/)\]\[[paper](https://arxiv.org/abs/2407.10759)\]\[[code](https://github.com/QwenLM/Qwen2-Audio)\]\[[Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)\]
 - **WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling**, _Ji et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2408.16532)\]\[[code](https://github.com/jishengpeng/WavTokenizer)\]
 - **Language Model Can Listen While Speaking**, _Ma et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2408.02622)\]\[[demo](https://ziyang.tech/LSLM/)\]
+- **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**, _Xie et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2408.16725)\]\[[code](https://github.com/gpt-omni/mini-omni)\]
 
 - **Github Repositories**
 - \[[coqui-ai/TTS](https://github.com/coqui-ai/TTS)\]\[[suno-ai/bark](https://github.com/suno-ai/bark)\]\[[ChatTTS](https://github.com/2noise/ChatTTS)\]\[[WhisperSpeech](https://github.com/collabora/WhisperSpeech)\]\[[MeloTTS](https://github.com/myshell-ai/MeloTTS)\]\[[parler-tts](https://github.com/huggingface/parler-tts)\]\[[fish-speech](https://github.com/fishaudio/fish-speech)\]\[[MARS5-TTS](https://github.com/Camb-ai/MARS5-TTS)\]\[[metavoice-src](https://github.com/metavoiceio/metavoice-src)\]
@@ -1262,7 +1266,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**, _Li et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.08748)\]\[[code](https://github.com/Tencent/HunyuanDiT)\]\[[xDiT](https://github.com/xdit-project/xDiT)\]
 - \[[Kolors](https://github.com/Kwai-Kolors/Kolors)\]\[[Kolors-Virtual-Try-On](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On)\]\[[EVLM: An Efficient Vision-Language Model for Visual Understanding](https://arxiv.org/abs/2407.14177)\]
 
-- \[[flux](https://github.com/black-forest-labs/flux)\]\[[x-flux](https://github.com/XLabs-AI/x-flux)\]\[[x-flux-comfyui](https://github.com/XLabs-AI/x-flux-comfyui)\]
+- \[[flux](https://github.com/black-forest-labs/flux)\]\[[x-flux](https://github.com/XLabs-AI/x-flux)\]\[[x-flux-comfyui](https://github.com/XLabs-AI/x-flux-comfyui)\]\[[FLUX.1-dev-LoRA](https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration)\]
 
 ### 7. Text2Video
 
@@ -1298,6 +1302,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **Latte: Latent Diffusion Transformer for Video Generation**, _Ma et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03048)\]\[[code](https://github.com/Vchitect/Latte)\]\[[LaVIT](https://github.com/jy0205/LaVIT)\]\[[LaVie](https://github.com/Vchitect/LaVie)\]\[[VBench](https://github.com/Vchitect/VBench)\]
 - **Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis**, _Menapace et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.14797)\]\[[articulated-animation](https://github.com/snap-research/articulated-animation)\]
 - **FancyVideo: Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance**, _Feng et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2408.08189)\]\[[code](https://github.com/360CVGroup/FancyVideo)\]
+- **DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**, _Hu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2409.02095)\]\[[code](https://github.com/wbhu/DepthCrafter)\]
 
 - \[[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)\]\[[clapper](https://github.com/jbilcke-hf/clapper)\]\[[videos](https://github.com/3b1b/videos)\]
 
@@ -1331,7 +1336,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 
 ### 1.Basic for RL
 
-- **Deep Reinforcement Learning: Pong from Pixels**, _Andrej Karpathy_, 2016. \[[blog](https://karpathy.github.io/2016/05/31/rl/)\]\[[reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)\]\[[easy-rl](https://github.com/datawhalechina/easy-rl)\]\[[deep-rl-course](https://huggingface.co/learn/deep-rl-course/)\]
+- **Deep Reinforcement Learning: Pong from Pixels**, _Andrej Karpathy_, 2016. \[[blog](https://karpathy.github.io/2016/05/31/rl/)\]\[[reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)\]\[[easy-rl](https://github.com/datawhalechina/easy-rl)\]\[[deep-rl-course](https://huggingface.co/learn/deep-rl-course/)\]\[[wangshusen/DRL](https://github.com/wangshusen/DRL)\]
 - DQN: **Playing Atari with Deep Reinforcement Learning**, _Mnih et al._, arxiv 2013. \[[paper](https://arxiv.org/abs/1312.5602)\]\[[code](https://github.com/higgsfield/RL-Adventure/blob/master/1.dqn.ipynb)\]
 - DQNNaturePaper: **Human-level control through deep reinforcement learning**, _Mnih et al._, Nature 2015. \[[paper](https://www.nature.com/articles/nature14236)\]\[[DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow)\]\[[DQN_pytorch](https://github.com/dxyang/DQN_pytorch)\]
 - DDQN: **Deep Reinforcement Learning with Double Q-learning**, _Hasselt et al._, AAAI 2016. \[[paper](https://arxiv.org/abs/1509.06461)\]\[[RL-Adventure](https://github.com/higgsfield/RL-Adventure)\]\[[deep-q-learning](https://github.com/keon/deep-q-learning)\]\[[Deep-RL-Keras](https://github.com/germain-hug/Deep-RL-Keras)\]
