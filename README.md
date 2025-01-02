@@ -218,7 +218,7 @@ This repository is used to collect papers and code in the field of AI. The conte
 - **The Rise and Potential of Large Language Model Based Agents: A Survey**, _Xi et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.07864)\]\[[code](https://github.com/WooooDyy/LLM-Agent-Paper-List)\]
 - **Agent AI: Surveying the Horizons of Multimodal Interaction**, _Durante et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03568)\]
 - **Position Paper: Agent AI Towards a Holistic Intelligence**, _Huang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.00833)\]
-
+- **OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis**, _Qiushi Sun et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2412.19723)\]\[[code](https://github.com/OS-Copilot/OS-Genesis)\]\[[homepage](https://qiushisun.github.io/OS-Genesis-Home/)\]
 - **AgentBench: Evaluating LLMs as Agents**, _Liu et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2308.03688)\]\[[code](https://github.com/THUDM/AgentBench)\]\[[VisualAgentBench](https://github.com/THUDM/VisualAgentBench)\]\[[OSWorld](https://github.com/xlang-ai/OSWorld)\]\[[AgentGym](https://github.com/WooooDyy/AgentGym)\]\[[Agent-S](https://github.com/simular-ai/Agent-S)\]\[[Agent-as-a-Judge](https://arxiv.org/abs/2410.10934)\]
 - **Agents: An Open-source Framework for Autonomous Language Agents**, _Zhou et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.07870)\]\[[code](https://github.com/aiwaves-cn/agents)\]
 - **AutoAgents: A Framework for Automatic Agent Generation**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2309.17288)\]\[[code](https://github.com/Link-AGI/AutoAgents)\]
